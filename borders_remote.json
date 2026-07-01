@@ -1,0 +1,122 @@
+{
+  "_comment": "配信用ボーダーDB。machines を更新したら version を +1 して再アップロードする。removed に機種名を入れるとアプリ側で削除される。",
+  "version": 1,
+  "machines": [
+    {
+      "name": "P大海物語5",
+      "equivalentBorder": 16.7,
+      "sourceURL": "https://pachinko-spec.info/spec/103492/"
+    },
+    {
+      "name": "eガンゲイル・オンライン",
+      "equivalentBorder": 16.54,
+      "sourceURL": "https://pachinko-spec.info/spec/169045/"
+    },
+    {
+      "name": "P真・北斗無双 第4章 下剋上闘",
+      "equivalentBorder": 16.84,
+      "sourceURL": "https://pachinko-spec.info/spec/131246/"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン 〜未来への咆哮〜",
+      "equivalentBorder": 16.94,
+      "sourceURL": "https://pachinko-spec.info/spec/26418/"
+    },
+    {
+      "name": "Pとある魔術の禁書目録2 Light PREMIUM 2000ver.",
+      "equivalentBorder": 17.58,
+      "sourceURL": "https://pachinko-spec.info/spec/150046/"
+    },
+    {
+      "name": "PAフィーバーからくりサーカス2YF",
+      "equivalentBorder": 17.52,
+      "sourceURL": "https://pachinko-spec.info/spec/162861/"
+    },
+    {
+      "name": "eフィーバー機動戦士ガンダムSEED CLIMAX",
+      "equivalentBorder": 16.61,
+      "sourceURL": "https://pachinko-spec.info/spec/171170/"
+    },
+    {
+      "name": "eルパン三世vsキャッツアイ 157ver.",
+      "equivalentBorder": 17.17,
+      "sourceURL": "https://pachinko-spec.info/spec/168333/"
+    },
+    {
+      "name": "P戦国乙女6 暁の関ヶ原",
+      "equivalentBorder": 17.53,
+      "sourceURL": "https://pachinko-spec.info/spec/24864/"
+    },
+    {
+      "name": "e大工の源さん超韋駄天2 フルスイングLT",
+      "equivalentBorder": 18.37,
+      "sourceURL": "https://pachinko-spec.info/spec/147627/"
+    },
+    {
+      "name": "P地獄少女 きくりのお祭りLIVE FWA",
+      "equivalentBorder": 18.6,
+      "sourceURL": "https://pachinko-spec.info/spec/24802/"
+    },
+    {
+      "name": "PモンキーターンV",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/25876/"
+    },
+    {
+      "name": "PAスーパー海物語 IN 沖縄5 夜桜超旋風 99ver.",
+      "equivalentBorder": 19.19,
+      "sourceURL": "https://pachinko-spec.info/spec/95500/"
+    },
+    {
+      "name": "e花の慶次〜黄金の一撃",
+      "equivalentBorder": 16.46,
+      "sourceURL": "https://pachinko-spec.info/spec/161634/"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 season2 249ver.",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/166114/"
+    },
+    {
+      "name": "eバイオハザード6",
+      "equivalentBorder": 17.0,
+      "sourceURL": "https://pachinko-spec.info/spec/168632/"
+    },
+    {
+      "name": "Pフィーバーアクエリオン 極合体",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/110970/"
+    },
+    {
+      "name": "Pフィーバー革命機ヴァルヴレイヴ3 Light ver.",
+      "equivalentBorder": 16.48,
+      "sourceURL": "https://pachinko-spec.info/spec/145572/"
+    },
+    {
+      "name": "Pバジリスク桜花忍法帖 早咲き桜99ver.",
+      "equivalentBorder": 20.23,
+      "sourceURL": "https://pachinko-spec.info/spec/65635/"
+    },
+    {
+      "name": "Pゴブリンスレイヤー ラッキートリガーVer.",
+      "equivalentBorder": 17.18,
+      "sourceURL": "https://pachinko-spec.info/spec/139454/"
+    },
+    {
+      "name": "e北斗の拳11 暴凶星",
+      "equivalentBorder": 16.99,
+      "sourceURL": "https://pachinko-spec.info/spec/163278/"
+    },
+    {
+      "name": "PLT 激デジ ジューシーハニー極嬢",
+      "equivalentBorder": 17.05,
+      "sourceURL": "https://pachinko-spec.info/spec/156835/"
+    },
+    {
+      "name": "Pデジハネ交響詩篇エウレカセブン ANEMONE 99ver.",
+      "equivalentBorder": 16.95,
+      "sourceURL": "https://pachinko-spec.info/spec/143109/"
+    }
+  ],
+  "removed": []
+}
