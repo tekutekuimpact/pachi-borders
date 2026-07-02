@@ -1,121 +1,2928 @@
 {
-  "_comment": "配信用ボーダーDB。machines を更新したら version を +1 して再アップロードする。removed に機種名を入れるとアプリ側で削除される。",
-  "version": 1,
+  "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
+  "version": 2,
   "machines": [
     {
-      "name": "P大海物語5",
-      "equivalentBorder": 16.7,
-      "sourceURL": "https://pachinko-spec.info/spec/103492/"
+      "name": "e takt op. Destiny",
+      "equivalentBorder": 40.97,
+      "sourceURL": "https://pachinko-spec.info/spec/172334/",
+      "introDate": "2026/09/07"
     },
     {
-      "name": "eガンゲイル・オンライン",
-      "equivalentBorder": 16.54,
-      "sourceURL": "https://pachinko-spec.info/spec/169045/"
+      "name": "e魔女と野獣",
+      "equivalentBorder": 26.16,
+      "sourceURL": "https://pachinko-spec.info/spec/172327/",
+      "introDate": "2026/09/07"
     },
     {
-      "name": "P真・北斗無双 第4章 下剋上闘",
-      "equivalentBorder": 16.84,
-      "sourceURL": "https://pachinko-spec.info/spec/131246/"
+      "name": "eAフィーバー炎炎ノ消防隊2 99ver.",
+      "equivalentBorder": 16.65,
+      "sourceURL": "https://pachinko-spec.info/spec/171922/",
+      "introDate": "2026/09/07"
     },
     {
-      "name": "P新世紀エヴァンゲリオン 〜未来への咆哮〜",
-      "equivalentBorder": 16.94,
-      "sourceURL": "https://pachinko-spec.info/spec/26418/"
+      "name": "eぱちんこアサルトリリィ",
+      "equivalentBorder": 17.1,
+      "sourceURL": "https://pachinko-spec.info/spec/171882/",
+      "introDate": "2026/09/07"
     },
     {
-      "name": "Pとある魔術の禁書目録2 Light PREMIUM 2000ver.",
-      "equivalentBorder": 17.58,
-      "sourceURL": "https://pachinko-spec.info/spec/150046/"
+      "name": "PA愛の不時着 99 Sweet ver.",
+      "equivalentBorder": 17.5,
+      "sourceURL": "https://pachinko-spec.info/spec/171875/",
+      "introDate": "2026/09/07"
     },
     {
-      "name": "PAフィーバーからくりサーカス2YF",
-      "equivalentBorder": 17.52,
-      "sourceURL": "https://pachinko-spec.info/spec/162861/"
+      "name": "eシン・ウルトラマン  79ver.",
+      "equivalentBorder": 18.31,
+      "sourceURL": "https://pachinko-spec.info/spec/171867/",
+      "introDate": "2026/09/07"
+    },
+    {
+      "name": "PA大海物語 with アグネス・ラム Premium Edition",
+      "equivalentBorder": 16.36,
+      "sourceURL": "https://pachinko-spec.info/spec/171633/",
+      "introDate": "2026/09/07"
+    },
+    {
+      "name": "e甲鉄城のカバネリ2 輪廻の果報119ver.",
+      "equivalentBorder": 17.33,
+      "sourceURL": "https://pachinko-spec.info/spec/171541/",
+      "introDate": "2026/09/07"
+    },
+    {
+      "name": "P春一番2026",
+      "equivalentBorder": 19.42,
+      "sourceURL": "https://pachinko-spec.info/spec/171451/",
+      "introDate": "2026/08/17"
+    },
+    {
+      "name": "Pうしおととら 神のせSPEC 100ver",
+      "equivalentBorder": 16.48,
+      "sourceURL": "https://pachinko-spec.info/spec/171443/",
+      "introDate": "2026/09/07"
+    },
+    {
+      "name": "e虚構推理",
+      "equivalentBorder": 31.49,
+      "sourceURL": "https://pachinko-spec.info/spec/171199/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "eゾンビになるまでにしたい100のこと",
+      "equivalentBorder": 29.79,
+      "sourceURL": "https://pachinko-spec.info/spec/171191/",
+      "introDate": "2026/08/17"
+    },
+    {
+      "name": "eソードアート・オンライン -アリシゼーション- 夜空",
+      "equivalentBorder": 19.91,
+      "sourceURL": "https://pachinko-spec.info/spec/171184/",
+      "introDate": "2026/08/03"
+    },
+    {
+      "name": "e七つの大罪3",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/171177/",
+      "introDate": "2026/08/03"
     },
     {
       "name": "eフィーバー機動戦士ガンダムSEED CLIMAX",
       "equivalentBorder": 16.61,
-      "sourceURL": "https://pachinko-spec.info/spec/171170/"
+      "sourceURL": "https://pachinko-spec.info/spec/171170/",
+      "introDate": "2026/08/03"
     },
     {
-      "name": "eルパン三世vsキャッツアイ 157ver.",
-      "equivalentBorder": 17.17,
-      "sourceURL": "https://pachinko-spec.info/spec/168333/"
+      "name": "eEDENS ZERO",
+      "equivalentBorder": 16.32,
+      "sourceURL": "https://pachinko-spec.info/spec/171011/",
+      "introDate": "2026/08/03"
     },
     {
-      "name": "P戦国乙女6 暁の関ヶ原",
-      "equivalentBorder": 17.53,
-      "sourceURL": "https://pachinko-spec.info/spec/24864/"
+      "name": "eアクセル・ワールド",
+      "equivalentBorder": 16.67,
+      "sourceURL": "https://pachinko-spec.info/spec/171001/",
+      "introDate": "2026/08/03"
     },
     {
-      "name": "e大工の源さん超韋駄天2 フルスイングLT",
-      "equivalentBorder": 18.37,
-      "sourceURL": "https://pachinko-spec.info/spec/147627/"
+      "name": "e東京リベンジャーズ聖夜決戦編",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/170947/",
+      "introDate": "2026/07/06"
     },
     {
-      "name": "P地獄少女 きくりのお祭りLIVE FWA",
-      "equivalentBorder": 18.6,
-      "sourceURL": "https://pachinko-spec.info/spec/24802/"
+      "name": "eベルセルク無双 第2章 10連撃Ver.",
+      "equivalentBorder": 26.98,
+      "sourceURL": "https://pachinko-spec.info/spec/170234/",
+      "introDate": "2026/07/21"
     },
     {
-      "name": "PモンキーターンV",
-      "equivalentBorder": 16.52,
-      "sourceURL": "https://pachinko-spec.info/spec/25876/"
+      "name": "P押忍!番長 漢の頂 99ver.",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/169999/",
+      "introDate": "2026/08/03"
     },
     {
-      "name": "PAスーパー海物語 IN 沖縄5 夜桜超旋風 99ver.",
-      "equivalentBorder": 19.19,
-      "sourceURL": "https://pachinko-spec.info/spec/95500/"
+      "name": "e押忍!番長 漢の頂 99ver.",
+      "equivalentBorder": 16.82,
+      "sourceURL": "https://pachinko-spec.info/spec/169993/",
+      "introDate": "2026/08/03"
     },
     {
-      "name": "e花の慶次〜黄金の一撃",
-      "equivalentBorder": 16.46,
-      "sourceURL": "https://pachinko-spec.info/spec/161634/"
+      "name": "eワールドダイスター",
+      "equivalentBorder": 16.79,
+      "sourceURL": "https://pachinko-spec.info/spec/169986/",
+      "introDate": "2026/07/06"
     },
     {
-      "name": "P Re:ゼロから始める異世界生活 season2 249ver.",
-      "equivalentBorder": 16.59,
-      "sourceURL": "https://pachinko-spec.info/spec/166114/"
+      "name": "e魔法少女リリカルなのは",
+      "equivalentBorder": 17.6,
+      "sourceURL": "https://pachinko-spec.info/spec/169976/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "e結城友奈は勇者である 極限7500",
+      "equivalentBorder": 17.01,
+      "sourceURL": "https://pachinko-spec.info/spec/169923/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "eぱちんこ必殺仕事人Ⅵ",
+      "equivalentBorder": 16.76,
+      "sourceURL": "https://pachinko-spec.info/spec/169916/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "e無職転生～異世界行ったら本気だす～",
+      "equivalentBorder": 16.63,
+      "sourceURL": "https://pachinko-spec.info/spec/169907/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "P入るんスタート✕織田信奈の野望",
+      "equivalentBorder": 36.09,
+      "sourceURL": "https://pachinko-spec.info/spec/169900/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "eフィーバーブルーロック LIGHT ver.",
+      "equivalentBorder": 16.51,
+      "sourceURL": "https://pachinko-spec.info/spec/169431/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "eフィーバーデッドマウントデスプレイ 魂神9000",
+      "equivalentBorder": 17.05,
+      "sourceURL": "https://pachinko-spec.info/spec/169424/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "Pフィーバーブルーロック LIGHT ver.",
+      "equivalentBorder": 16.51,
+      "sourceURL": "https://pachinko-spec.info/spec/169417/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "PシャカRUSH Z Jr.",
+      "equivalentBorder": 17.49,
+      "sourceURL": "https://pachinko-spec.info/spec/169411/",
+      "introDate": "2026/06/22"
+    },
+    {
+      "name": "e一方通行 最狂",
+      "equivalentBorder": 26.49,
+      "sourceURL": "https://pachinko-spec.info/spec/169404/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "PAスーパー海物語IN沖縄6 Withえなこ",
+      "equivalentBorder": 16.8,
+      "sourceURL": "https://pachinko-spec.info/spec/169064/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "eガールズ&パンツァー 最終章 159VER.",
+      "equivalentBorder": 16.94,
+      "sourceURL": "https://pachinko-spec.info/spec/169058/",
+      "introDate": "2026/07/06"
+    },
+    {
+      "name": "e学園黙示録HIGH SCHOOL OF THE DEAD3",
+      "equivalentBorder": 17.22,
+      "sourceURL": "https://pachinko-spec.info/spec/169051/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "eガンゲイル・オンライン",
+      "equivalentBorder": 16.54,
+      "sourceURL": "https://pachinko-spec.info/spec/169045/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "e東京喰種 超デカ超一撃ver.",
+      "equivalentBorder": 30.37,
+      "sourceURL": "https://pachinko-spec.info/spec/169039/",
+      "introDate": "2026/06/08"
     },
     {
       "name": "eバイオハザード6",
       "equivalentBorder": 17.0,
-      "sourceURL": "https://pachinko-spec.info/spec/168632/"
+      "sourceURL": "https://pachinko-spec.info/spec/168632/",
+      "introDate": "2026/05/11"
     },
     {
-      "name": "Pフィーバーアクエリオン 極合体",
+      "name": "eひきこまり吸血姫の悶々",
+      "equivalentBorder": 17.26,
+      "sourceURL": "https://pachinko-spec.info/spec/168626/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "PA花の慶次～傾奇一転 87ver.",
+      "equivalentBorder": 16.29,
+      "sourceURL": "https://pachinko-spec.info/spec/168619/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "PAフィーバークィーンⅡYS",
+      "equivalentBorder": 17.9,
+      "sourceURL": "https://pachinko-spec.info/spec/168613/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "eカケグルイ ～生か死か～ 7500ver.",
       "equivalentBorder": 16.59,
-      "sourceURL": "https://pachinko-spec.info/spec/110970/"
+      "sourceURL": "https://pachinko-spec.info/spec/168604/",
+      "introDate": "2026/05/11"
     },
     {
-      "name": "Pフィーバー革命機ヴァルヴレイヴ3 Light ver.",
-      "equivalentBorder": 16.48,
-      "sourceURL": "https://pachinko-spec.info/spec/145572/"
+      "name": "eカケグルイ ～生か死か～ 219ver.",
+      "equivalentBorder": 16.41,
+      "sourceURL": "https://pachinko-spec.info/spec/168567/",
+      "introDate": "2026/05/11"
     },
     {
-      "name": "Pバジリスク桜花忍法帖 早咲き桜99ver.",
-      "equivalentBorder": 20.23,
-      "sourceURL": "https://pachinko-spec.info/spec/65635/"
+      "name": "eギンギラパラダイス VIVA FESTA",
+      "equivalentBorder": 23.23,
+      "sourceURL": "https://pachinko-spec.info/spec/168339/",
+      "introDate": "2026/05/06"
     },
     {
-      "name": "Pゴブリンスレイヤー ラッキートリガーVer.",
+      "name": "eルパン三世vsキャッツアイ 157ver.",
+      "equivalentBorder": 17.17,
+      "sourceURL": "https://pachinko-spec.info/spec/168333/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "e化物語 鬼99ver.",
+      "equivalentBorder": 17.28,
+      "sourceURL": "https://pachinko-spec.info/spec/168323/",
+      "introDate": "2026/06/08"
+    },
+    {
+      "name": "Pデカスタ戦国無双 100ver.",
+      "equivalentBorder": 29.94,
+      "sourceURL": "https://pachinko-spec.info/spec/168095/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "eライザのアトリエ ～常闇の女王と秘密の隠れ家～",
+      "equivalentBorder": 19.2,
+      "sourceURL": "https://pachinko-spec.info/spec/168088/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "P魔法少女まどか☆マギカ3 キュウべえver.",
+      "equivalentBorder": 16.5,
+      "sourceURL": "https://pachinko-spec.info/spec/168081/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "P犬夜叉3.0 甘SPEC 大入りスタート",
+      "equivalentBorder": 22.13,
+      "sourceURL": "https://pachinko-spec.info/spec/168074/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "Pクイーンズブレイド奈落 ナナエル79Ver.",
+      "equivalentBorder": 18.35,
+      "sourceURL": "https://pachinko-spec.info/spec/168067/",
+      "introDate": "2026/05/11"
+    },
+    {
+      "name": "e86 エイティシックス",
+      "equivalentBorder": 20.28,
+      "sourceURL": "https://pachinko-spec.info/spec/167697/",
+      "introDate": "2026/04/20"
+    },
+    {
+      "name": "e転生したらスライムだった件2",
+      "equivalentBorder": 16.74,
+      "sourceURL": "https://pachinko-spec.info/spec/167594/",
+      "introDate": "2026/04/06"
+    },
+    {
+      "name": "e終末のワルキューレ",
+      "equivalentBorder": 16.9,
+      "sourceURL": "https://pachinko-spec.info/spec/167588/",
+      "introDate": "2026/04/06"
+    },
+    {
+      "name": "eラグナドール 妖しき皇帝と終焉の夜叉姫",
+      "equivalentBorder": 15.94,
+      "sourceURL": "https://pachinko-spec.info/spec/167580/",
+      "introDate": "2026/04/20"
+    },
+    {
+      "name": "PAコマコマ倶楽部 with 坂本冬美 89確変ループ10ラウンド極",
+      "equivalentBorder": 17.8,
+      "sourceURL": "https://pachinko-spec.info/spec/167571/",
+      "introDate": "2026/04/06"
+    },
+    {
+      "name": "eフィーバーキン肉マン",
+      "equivalentBorder": 16.55,
+      "sourceURL": "https://pachinko-spec.info/spec/167215/",
+      "introDate": "2026/04/20"
+    },
+    {
+      "name": "Pウルトラマンメビウス",
+      "equivalentBorder": 29.72,
+      "sourceURL": "https://pachinko-spec.info/spec/167208/",
+      "introDate": "2026/04/06"
+    },
+    {
+      "name": "eリコリス・リコイル",
+      "equivalentBorder": 16.58,
+      "sourceURL": "https://pachinko-spec.info/spec/167187/",
+      "introDate": "2026/04/06"
+    },
+    {
+      "name": "eリング 最恐領域",
+      "equivalentBorder": 17.21,
+      "sourceURL": "https://pachinko-spec.info/spec/167181/",
+      "introDate": "2026/04/20"
+    },
+    {
+      "name": "Pにゃんこ大戦争 ～多様性のネコ～ 神様におまかせ88Ver",
+      "equivalentBorder": 16.64,
+      "sourceURL": "https://pachinko-spec.info/spec/167175/",
+      "introDate": "2026/04/20"
+    },
+    {
+      "name": "eアクダマドライブ",
+      "equivalentBorder": 17.48,
+      "sourceURL": "https://pachinko-spec.info/spec/166261/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "e魔法少女まどか☆マギカ3 時間遡行～始まりの願い～",
+      "equivalentBorder": 19.89,
+      "sourceURL": "https://pachinko-spec.info/spec/166168/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "e乃木坂46Ⅱ SWEET Version",
+      "equivalentBorder": 19.23,
+      "sourceURL": "https://pachinko-spec.info/spec/166161/",
+      "introDate": "2026/03/16"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 season2 129ver.",
+      "equivalentBorder": 16.02,
+      "sourceURL": "https://pachinko-spec.info/spec/166154/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "eグリッドマン メガSTART159ver.",
+      "equivalentBorder": 31.66,
+      "sourceURL": "https://pachinko-spec.info/spec/166144/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "eワンパンマン2 正義執行LM10",
+      "equivalentBorder": 16.43,
+      "sourceURL": "https://pachinko-spec.info/spec/166137/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "e牙狼11 ～冴島大河～ 魔戒BURST Ver.",
+      "equivalentBorder": 30.03,
+      "sourceURL": "https://pachinko-spec.info/spec/166129/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "Pモモキュンソード 速撃99Ver.",
+      "equivalentBorder": 17.84,
+      "sourceURL": "https://pachinko-spec.info/spec/166121/",
+      "introDate": "2026/03/16"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 season2 249ver.",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/166114/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "Pえとたま2 神祭 干支甘",
+      "equivalentBorder": 16.42,
+      "sourceURL": "https://pachinko-spec.info/spec/166084/",
+      "introDate": "2026/03/16"
+    },
+    {
+      "name": "PキングモンスターRUSH",
+      "equivalentBorder": 17.64,
+      "sourceURL": "https://pachinko-spec.info/spec/165935/",
+      "introDate": "2026/03/16"
+    },
+    {
+      "name": "P痛いのは嫌なので防御力に極振りしたいと思います｡ 極振り129ver.",
+      "equivalentBorder": 17.19,
+      "sourceURL": "https://pachinko-spec.info/spec/165929/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "eフィーバーダンベル何キロ持てる?2",
+      "equivalentBorder": 16.9,
+      "sourceURL": "https://pachinko-spec.info/spec/165923/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "P攻殻機動隊SAC 2045 99ver.",
+      "equivalentBorder": 16.64,
+      "sourceURL": "https://pachinko-spec.info/spec/165915/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "e甲鉄城のカバネリ2 咲かせや燐然",
+      "equivalentBorder": 17.11,
+      "sourceURL": "https://pachinko-spec.info/spec/165689/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "P戦国乙女7 終焉の関ヶ原 強カワ99ver.",
       "equivalentBorder": 17.18,
-      "sourceURL": "https://pachinko-spec.info/spec/139454/"
+      "sourceURL": "https://pachinko-spec.info/spec/165288/",
+      "introDate": "2026/03/02"
+    },
+    {
+      "name": "P俺の妹がこんなに可愛いわけがない｡ 攻略!!スキップ159ver.",
+      "equivalentBorder": 16.74,
+      "sourceURL": "https://pachinko-spec.info/spec/165281/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "P黄門ちゃま 寿限無 99ver.",
+      "equivalentBorder": 16.47,
+      "sourceURL": "https://pachinko-spec.info/spec/165275/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "P黄門ちゃま 寿限無 LLサイズSTART 259ver.",
+      "equivalentBorder": 30.83,
+      "sourceURL": "https://pachinko-spec.info/spec/165268/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "e真・北斗無双 第5章 夢幻闘双",
+      "equivalentBorder": 17.02,
+      "sourceURL": "https://pachinko-spec.info/spec/165260/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "PA乗物娘 with CYBERJAPAN DANCERS 2nd season 77ver.",
+      "equivalentBorder": 16.2,
+      "sourceURL": "https://pachinko-spec.info/spec/165113/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "eフィーバーバスタード -暗黒の破壊神",
+      "equivalentBorder": 17.01,
+      "sourceURL": "https://pachinko-spec.info/spec/164867/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "P冴えない彼女の育てかた 99ver.",
+      "equivalentBorder": 17.27,
+      "sourceURL": "https://pachinko-spec.info/spec/164798/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "e異世界でチート能力を手にした俺は､現実世界をも無双する～レベルアップは人生を変えた～",
+      "equivalentBorder": 27.62,
+      "sourceURL": "https://pachinko-spec.info/spec/164791/",
+      "introDate": "2026/02/02"
+    },
+    {
+      "name": "P閃乱カグラ 大入りスタート189ver.",
+      "equivalentBorder": 29.5,
+      "sourceURL": "https://pachinko-spec.info/spec/164587/",
+      "introDate": "2026/01/19"
+    },
+    {
+      "name": "e範馬刃牙 199ver.",
+      "equivalentBorder": 16.54,
+      "sourceURL": "https://pachinko-spec.info/spec/164581/",
+      "introDate": "2026/01/19"
+    },
+    {
+      "name": "Pゴジラ対エヴァンゲリオン2 超デカSILVER 174",
+      "equivalentBorder": 29.93,
+      "sourceURL": "https://pachinko-spec.info/spec/164425/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "eULTRAMAN 4500超ライトver.",
+      "equivalentBorder": 16.6,
+      "sourceURL": "https://pachinko-spec.info/spec/164418/",
+      "introDate": "2026/01/19"
+    },
+    {
+      "name": "eゴジラ対エヴァンゲリオン2 超デカGOLD299",
+      "equivalentBorder": 30.1,
+      "sourceURL": "https://pachinko-spec.info/spec/164409/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "eソードアート・オンライン～閃光の軌跡～ 99ver.",
+      "equivalentBorder": 16.09,
+      "sourceURL": "https://pachinko-spec.info/spec/164399/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "e盾の勇者の成り上がり アルティメット 199ver.",
+      "equivalentBorder": 17.49,
+      "sourceURL": "https://pachinko-spec.info/spec/164219/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "Pリングにかけろ1 129ver.",
+      "equivalentBorder": 16.55,
+      "sourceURL": "https://pachinko-spec.info/spec/164205/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "eようこそ実力至上主義の教室へ",
+      "equivalentBorder": 29.67,
+      "sourceURL": "https://pachinko-spec.info/spec/164141/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "P【超甘LT】華牌RR 1/49✕99de遊タイム",
+      "equivalentBorder": 16.75,
+      "sourceURL": "https://pachinko-spec.info/spec/164133/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "Pフィーバーうたわれるもの LT-Light ver.",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/164127/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "P【超甘LT】この素晴らしい世界に祝福を! 最終クエスト1/49",
+      "equivalentBorder": 19.59,
+      "sourceURL": "https://pachinko-spec.info/spec/164119/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "Pフィーバー超デカ彼女､お借りします LT-Light ver.",
+      "equivalentBorder": 29.99,
+      "sourceURL": "https://pachinko-spec.info/spec/164112/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "PA清流物語4 ウキウキ79ver.",
+      "equivalentBorder": 18.47,
+      "sourceURL": "https://pachinko-spec.info/spec/164104/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "e吉宗 極乗3000ver.",
+      "equivalentBorder": 16.45,
+      "sourceURL": "https://pachinko-spec.info/spec/163842/",
+      "introDate": "2026/01/05"
+    },
+    {
+      "name": "P少女☆劇場 レヴュースタァライト99 LT300",
+      "equivalentBorder": 16.51,
+      "sourceURL": "https://pachinko-spec.info/spec/163833/",
+      "introDate": "2025/12/22"
+    },
+    {
+      "name": "e地獄少女7500Ver.",
+      "equivalentBorder": 32.73,
+      "sourceURL": "https://pachinko-spec.info/spec/163505/",
+      "introDate": "2025/12/08"
     },
     {
       "name": "e北斗の拳11 暴凶星",
       "equivalentBorder": 16.99,
-      "sourceURL": "https://pachinko-spec.info/spec/163278/"
+      "sourceURL": "https://pachinko-spec.info/spec/163278/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "e新世紀エヴァンゲリオン ～はじまりの記憶～",
+      "equivalentBorder": 16.85,
+      "sourceURL": "https://pachinko-spec.info/spec/163265/",
+      "introDate": "2025/12/22"
+    },
+    {
+      "name": "eアズールレーンⅡ 超次元",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/163258/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "PA野生の王国Ⅵ",
+      "equivalentBorder": 16.79,
+      "sourceURL": "https://pachinko-spec.info/spec/163252/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "eうしおととら ～神のせSPEC～ 399ver.",
+      "equivalentBorder": 17.25,
+      "sourceURL": "https://pachinko-spec.info/spec/163002/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "eうしおととら ～神のせSPEC～ 150ver.",
+      "equivalentBorder": 16.12,
+      "sourceURL": "https://pachinko-spec.info/spec/162995/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "PAフィーバーからくりサーカス2YF",
+      "equivalentBorder": 17.52,
+      "sourceURL": "https://pachinko-spec.info/spec/162861/",
+      "introDate": "2025/12/08"
+    },
+    {
+      "name": "Pメイドインアビス 奈落の連環蝕",
+      "equivalentBorder": 17.21,
+      "sourceURL": "https://pachinko-spec.info/spec/162854/",
+      "introDate": "2025/11/17"
+    },
+    {
+      "name": "PA海物語 極JAPAN",
+      "equivalentBorder": 17.58,
+      "sourceURL": "https://pachinko-spec.info/spec/162846/",
+      "introDate": "2025/11/17"
+    },
+    {
+      "name": "Pいくさの子 戦極最強ドデカ199ver.",
+      "equivalentBorder": 32.16,
+      "sourceURL": "https://pachinko-spec.info/spec/162575/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "PAGoGo富士山T",
+      "equivalentBorder": 14.28,
+      "sourceURL": "https://pachinko-spec.info/spec/162297/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "P転生したらスライムだった件 129ver.",
+      "equivalentBorder": 16.49,
+      "sourceURL": "https://pachinko-spec.info/spec/162288/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "eルパン三世VSCAT’S EYE",
+      "equivalentBorder": 16.84,
+      "sourceURL": "https://pachinko-spec.info/spec/162217/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "e源外伝 EPISODE OF DAIRYU",
+      "equivalentBorder": 30.62,
+      "sourceURL": "https://pachinko-spec.info/spec/162126/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "eフィーバーもののがたり",
+      "equivalentBorder": 16.96,
+      "sourceURL": "https://pachinko-spec.info/spec/161829/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "e花の慶次〜黄金の一撃",
+      "equivalentBorder": 16.46,
+      "sourceURL": "https://pachinko-spec.info/spec/161634/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "eノーゲーム・ノーライフ 319ver",
+      "equivalentBorder": 17.38,
+      "sourceURL": "https://pachinko-spec.info/spec/161626/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "eノーゲーム・ノーライフ 199ver.",
+      "equivalentBorder": 17.01,
+      "sourceURL": "https://pachinko-spec.info/spec/161620/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "e仮面ライダー電王 デカヘソ239",
+      "equivalentBorder": 29.76,
+      "sourceURL": "https://pachinko-spec.info/spec/161502/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "e聖戦士ダンバイン3 ZERO SONIC",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/161247/",
+      "introDate": "2025/10/20"
+    },
+    {
+      "name": "Pゴッドイーター199 ゴッドトリガーVER.",
+      "equivalentBorder": 16.98,
+      "sourceURL": "https://pachinko-spec.info/spec/161227/",
+      "introDate": "2025/10/20"
+    },
+    {
+      "name": "Pフィーバーダンジョンに出会いを求めるのは間違っているだろうか2 LT-Light ver.",
+      "equivalentBorder": 16.63,
+      "sourceURL": "https://pachinko-spec.info/spec/161112/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "eガールズ&パンツァー 最終章",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/161104/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "PA義風堂々3!! -兼続と慶次- 99Ver.",
+      "equivalentBorder": 15.77,
+      "sourceURL": "https://pachinko-spec.info/spec/160926/",
+      "introDate": "2025/10/20"
+    },
+    {
+      "name": "eとある科学の超電磁砲 PHASE NEXT",
+      "equivalentBorder": 17.1,
+      "sourceURL": "https://pachinko-spec.info/spec/160919/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "Pシュタインズ・ゲート・ゼロ まゆしぃば～じょん",
+      "equivalentBorder": 28.66,
+      "sourceURL": "https://pachinko-spec.info/spec/160911/",
+      "introDate": "2025/10/20"
+    },
+    {
+      "name": "Pスーパー海物語IN沖縄6",
+      "equivalentBorder": 17.61,
+      "sourceURL": "https://pachinko-spec.info/spec/160903/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "Pぱちんこ冬のソナタ My Memory Sweet Version",
+      "equivalentBorder": 17.22,
+      "sourceURL": "https://pachinko-spec.info/spec/160899/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "eベルセルク無双 第2章",
+      "equivalentBorder": 16.53,
+      "sourceURL": "https://pachinko-spec.info/spec/160568/",
+      "introDate": "2025/10/06"
+    },
+    {
+      "name": "Pデジハネ頭文字Dせかんど",
+      "equivalentBorder": 16.75,
+      "sourceURL": "https://pachinko-spec.info/spec/160560/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "PホワイトシャカRUSH ～廻るヘソワイド～",
+      "equivalentBorder": 27.14,
+      "sourceURL": "https://pachinko-spec.info/spec/160483/",
+      "introDate": "2025/09/22"
+    },
+    {
+      "name": "eパリピ孔明",
+      "equivalentBorder": 16.89,
+      "sourceURL": "https://pachinko-spec.info/spec/160203/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "Pルパン三世 ONE COLLECTION 100ver.",
+      "equivalentBorder": 16.98,
+      "sourceURL": "https://pachinko-spec.info/spec/160023/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "Pデカスタ デビルマン -THE FINAL- 179ver.",
+      "equivalentBorder": 29.58,
+      "sourceURL": "https://pachinko-spec.info/spec/160001/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "P戦国乙女7 終焉の関ヶ原 299ver.",
+      "equivalentBorder": 30.23,
+      "sourceURL": "https://pachinko-spec.info/spec/159995/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "P真・座頭市物語 LT99ver.",
+      "equivalentBorder": 16.36,
+      "sourceURL": "https://pachinko-spec.info/spec/159985/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "eフィーバーブルーロック",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/159972/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "P FAIRY TAIL 超一夜Ver.",
+      "equivalentBorder": 30.53,
+      "sourceURL": "https://pachinko-spec.info/spec/159787/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "Pアズールレーン THE ANIMATION ～異次元トリガー～ 79ver.",
+      "equivalentBorder": 16.88,
+      "sourceURL": "https://pachinko-spec.info/spec/159779/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "PAフィーバー戦姫絶唱シンフォギア4 FINAL COMMANDER LT-light ver.(3個賞球)",
+      "equivalentBorder": 18.9,
+      "sourceURL": "https://pachinko-spec.info/spec/159771/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "Pシン・エヴァンゲリオン PREMIUM MODEL",
+      "equivalentBorder": 16.13,
+      "sourceURL": "https://pachinko-spec.info/spec/159563/",
+      "introDate": "2025/09/08"
+    },
+    {
+      "name": "P【超甘LT】豊丸のとあるパチンコにしみけん参戦 感度UP1/39",
+      "equivalentBorder": 15.94,
+      "sourceURL": "https://pachinko-spec.info/spec/159146/",
+      "introDate": "2025/08/18"
+    },
+    {
+      "name": "PAフィーバー機動戦士ガンダムユニコーン -白き一角獣と黒き獅子- 再来 99ver.",
+      "equivalentBorder": 18.97,
+      "sourceURL": "https://pachinko-spec.info/spec/158956/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "PAフィーバー戦姫絶唱シンフォギア4 FINAL COMMANDER LT-light ver.(1個賞球)",
+      "equivalentBorder": 17.07,
+      "sourceURL": "https://pachinko-spec.info/spec/158947/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "e女神のカフェテラス",
+      "equivalentBorder": 26.68,
+      "sourceURL": "https://pachinko-spec.info/spec/158940/",
+      "introDate": "2025/08/18"
+    },
+    {
+      "name": "e GODZILLA",
+      "equivalentBorder": 16.66,
+      "sourceURL": "https://pachinko-spec.info/spec/158806/",
+      "introDate": "2025/08/18"
+    },
+    {
+      "name": "e真･一騎当千～軍神覚醒～ 319大入りver.",
+      "equivalentBorder": 29.75,
+      "sourceURL": "https://pachinko-spec.info/spec/158790/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "eシャーマンキング",
+      "equivalentBorder": 16.5,
+      "sourceURL": "https://pachinko-spec.info/spec/158784/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "eシャーマンキング でっけぇなあver.",
+      "equivalentBorder": 30.94,
+      "sourceURL": "https://pachinko-spec.info/spec/158777/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "e真･一騎当千～軍神覚醒～ 396ver.",
+      "equivalentBorder": 15.61,
+      "sourceURL": "https://pachinko-spec.info/spec/158769/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "Pクイーンズブレイド アンリミテッド 奈落",
+      "equivalentBorder": 17.17,
+      "sourceURL": "https://pachinko-spec.info/spec/158760/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "PAコマコマ倶楽部 with 坂本冬美 89STver.",
+      "equivalentBorder": 17.65,
+      "sourceURL": "https://pachinko-spec.info/spec/158623/",
+      "introDate": "2025/07/22"
+    },
+    {
+      "name": "e牙狼12黄金騎士極限",
+      "equivalentBorder": 16.88,
+      "sourceURL": "https://pachinko-spec.info/spec/158304/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "e冒険島",
+      "equivalentBorder": 17.49,
+      "sourceURL": "https://pachinko-spec.info/spec/158001/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 鬼がかり 199ver.",
+      "equivalentBorder": 16.82,
+      "sourceURL": "https://pachinko-spec.info/spec/157995/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 鬼がかり 99ver.",
+      "equivalentBorder": 18.06,
+      "sourceURL": "https://pachinko-spec.info/spec/157988/",
+      "introDate": "2025/11/04"
+    },
+    {
+      "name": "Pドラムだ!金ドン 花火外伝99ver.",
+      "equivalentBorder": 18.81,
+      "sourceURL": "https://pachinko-spec.info/spec/157757/",
+      "introDate": "2025/07/22"
+    },
+    {
+      "name": "e黄門ちゃま 寿限無",
+      "equivalentBorder": 30.22,
+      "sourceURL": "https://pachinko-spec.info/spec/157748/",
+      "introDate": "2025/08/04"
+    },
+    {
+      "name": "eマギアレコード魔法少女まどか☆マギカ外伝",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/157705/",
+      "introDate": "2025/07/22"
+    },
+    {
+      "name": "eフィーバー炎炎ノ消防隊2 紅丸ver.",
+      "equivalentBorder": 16.7,
+      "sourceURL": "https://pachinko-spec.info/spec/157700/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "eフィーバー炎炎ノ消防隊2 シンラver.",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/157690/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "e犬夜叉3.0",
+      "equivalentBorder": 16.61,
+      "sourceURL": "https://pachinko-spec.info/spec/157685/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "e東京リベンジャーズ",
+      "equivalentBorder": 16.46,
+      "sourceURL": "https://pachinko-spec.info/spec/157676/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "デカスタe花の慶次～傾奇一転",
+      "equivalentBorder": 28.74,
+      "sourceURL": "https://pachinko-spec.info/spec/157669/",
+      "introDate": "2025/07/22"
+    },
+    {
+      "name": "P CYBORG009 RULE OF SACRIFICE LT99Ver",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/157292/",
+      "introDate": "2025/07/07"
+    },
+    {
+      "name": "e一方通行",
+      "equivalentBorder": 26.33,
+      "sourceURL": "https://pachinko-spec.info/spec/157263/",
+      "introDate": "2025/07/07"
     },
     {
       "name": "PLT 激デジ ジューシーハニー極嬢",
       "equivalentBorder": 17.05,
-      "sourceURL": "https://pachinko-spec.info/spec/156835/"
+      "sourceURL": "https://pachinko-spec.info/spec/156835/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "e冴えない彼女の育てかた",
+      "equivalentBorder": 16.58,
+      "sourceURL": "https://pachinko-spec.info/spec/156795/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "Pデジハネモンスターハンターライズ",
+      "equivalentBorder": 17.6,
+      "sourceURL": "https://pachinko-spec.info/spec/156658/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "e範馬刃牙",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/156652/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "P戦国無双",
+      "equivalentBorder": 29.81,
+      "sourceURL": "https://pachinko-spec.info/spec/156642/",
+      "introDate": "2025/06/16"
+    },
+    {
+      "name": "PA海物語3R3(クリスタルシェル)",
+      "equivalentBorder": 17.32,
+      "sourceURL": "https://pachinko-spec.info/spec/156516/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "PA海物語3R3(マリンシェル)",
+      "equivalentBorder": 17.33,
+      "sourceURL": "https://pachinko-spec.info/spec/156508/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "Pフィーバーマクロスフロンティア5 LT-Light ver.",
+      "equivalentBorder": 17.22,
+      "sourceURL": "https://pachinko-spec.info/spec/156485/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "P緋弾のアリア～緋緋神降臨～88Ver.",
+      "equivalentBorder": 17.53,
+      "sourceURL": "https://pachinko-spec.info/spec/156480/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "eフィーバー彼女､お借りしますH",
+      "equivalentBorder": 29.95,
+      "sourceURL": "https://pachinko-spec.info/spec/156473/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "P DD北斗の拳3 百突99Ver.",
+      "equivalentBorder": 17.42,
+      "sourceURL": "https://pachinko-spec.info/spec/156465/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "Pファンキードクター 7200ループver.",
+      "equivalentBorder": 27.97,
+      "sourceURL": "https://pachinko-spec.info/spec/156213/",
+      "introDate": "2025/05/19"
+    },
+    {
+      "name": "P【超甘LT】江頭2:50inナナシー 奇跡の99%",
+      "equivalentBorder": 15.7,
+      "sourceURL": "https://pachinko-spec.info/spec/155802/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "PファンキーDr. 回るヘソワイド 11000ver.",
+      "equivalentBorder": 27.65,
+      "sourceURL": "https://pachinko-spec.info/spec/155796/",
+      "introDate": "2025/05/19"
+    },
+    {
+      "name": "P北斗の拳 慈母",
+      "equivalentBorder": 17.3,
+      "sourceURL": "https://pachinko-spec.info/spec/155760/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "PLT世界でいちばん強くなりたい!2",
+      "equivalentBorder": 18.03,
+      "sourceURL": "https://pachinko-spec.info/spec/155749/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "e仮面ライダーBLACK",
+      "equivalentBorder": 30.26,
+      "sourceURL": "https://pachinko-spec.info/spec/155606/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "e新・必殺仕置人 ～超斬撃99ver.～",
+      "equivalentBorder": 16.7,
+      "sourceURL": "https://pachinko-spec.info/spec/155598/",
+      "introDate": "2025/06/02"
+    },
+    {
+      "name": "P攻殻機動隊 GHOST IN THE SHELL:SAC_2045",
+      "equivalentBorder": 30.29,
+      "sourceURL": "https://pachinko-spec.info/spec/155590/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "Pぱちんこ乗物娘 2nd season WITH CYBERJAPAN DANCERS",
+      "equivalentBorder": 17.19,
+      "sourceURL": "https://pachinko-spec.info/spec/155585/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "Pフィーバー機動戦士ガンダムユニコーン -白き一角獣と黒き獅子- 再来 129ver.",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/155484/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "P宇宙戦艦ヤマト2202 愛の戦士たち 超波動 森雪199LTver.",
+      "equivalentBorder": 16.28,
+      "sourceURL": "https://pachinko-spec.info/spec/155246/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "Pゾンビランドサガ",
+      "equivalentBorder": 17.04,
+      "sourceURL": "https://pachinko-spec.info/spec/155037/",
+      "introDate": "2025/04/21"
+    },
+    {
+      "name": "P ToLOVEる ダークネス らぶらぶ100ver.",
+      "equivalentBorder": 16.68,
+      "sourceURL": "https://pachinko-spec.info/spec/154988/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "P織田信奈の野望 下剋上",
+      "equivalentBorder": 17.89,
+      "sourceURL": "https://pachinko-spec.info/spec/154984/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "e東京喰種",
+      "equivalentBorder": 16.68,
+      "sourceURL": "https://pachinko-spec.info/spec/154750/",
+      "introDate": "2025/04/21"
+    },
+    {
+      "name": "P痛いのは嫌なので防御力に極振りしたいと思います｡",
+      "equivalentBorder": 17.37,
+      "sourceURL": "https://pachinko-spec.info/spec/154677/",
+      "introDate": "2025/04/21"
+    },
+    {
+      "name": "PA異世界魔王と召喚少女の奴隷魔術 敏感99Ver.",
+      "equivalentBorder": 16.72,
+      "sourceURL": "https://pachinko-spec.info/spec/154661/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "P海物語極ジャパンHTH",
+      "equivalentBorder": 18.07,
+      "sourceURL": "https://pachinko-spec.info/spec/154612/",
+      "introDate": "2025/05/07"
+    },
+    {
+      "name": "e真・北斗無双 第5章 ドデカSTART",
+      "equivalentBorder": 29.82,
+      "sourceURL": "https://pachinko-spec.info/spec/154607/",
+      "introDate": "2025/03/17"
+    },
+    {
+      "name": "e牙狼神速神撃3000LT",
+      "equivalentBorder": 16.92,
+      "sourceURL": "https://pachinko-spec.info/spec/154547/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "eシン・ウルトラマン",
+      "equivalentBorder": 17.4,
+      "sourceURL": "https://pachinko-spec.info/spec/154375/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "PAシン・エヴァンゲリオン 99 遊タイム付 ごらくver.",
+      "equivalentBorder": 16.5,
+      "sourceURL": "https://pachinko-spec.info/spec/154346/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "PAナナシー〜お江戸77ver.〜",
+      "equivalentBorder": 16.99,
+      "sourceURL": "https://pachinko-spec.info/spec/154337/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "eA夏色日記GO",
+      "equivalentBorder": 16.8,
+      "sourceURL": "https://pachinko-spec.info/spec/154331/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "Pぱちんこ冬のソナタ My Memory Sweet GORAKU Version",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/154324/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "P中森明菜・歌姫伝説〜BLACK DIVA楽〜80〜89ver.",
+      "equivalentBorder": 17.4,
+      "sourceURL": "https://pachinko-spec.info/spec/154317/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "Pアナザーゴッドハーデス-獄炎-",
+      "equivalentBorder": 15.8,
+      "sourceURL": "https://pachinko-spec.info/spec/154292/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "P少女☆歌劇レヴュースタァライト ラッキートリガー4500",
+      "equivalentBorder": 16.72,
+      "sourceURL": "https://pachinko-spec.info/spec/154236/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "eフィーバーうたわれるものZ",
+      "equivalentBorder": 17.23,
+      "sourceURL": "https://pachinko-spec.info/spec/154218/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "PフィーバーうたわれるものZ",
+      "equivalentBorder": 16.99,
+      "sourceURL": "https://pachinko-spec.info/spec/154213/",
+      "introDate": "2025/04/07"
+    },
+    {
+      "name": "Pモモキュンソード速撃3000+",
+      "equivalentBorder": 16.11,
+      "sourceURL": "https://pachinko-spec.info/spec/153985/",
+      "introDate": "2025/03/17"
+    },
+    {
+      "name": "PAひぐらしのなく頃に 輪廻転生99Ver.",
+      "equivalentBorder": 16.15,
+      "sourceURL": "https://pachinko-spec.info/spec/153192/",
+      "introDate": "2025/03/17"
+    },
+    {
+      "name": "Pうる星やつら2 ～Eternal Love Song～ 129ver.",
+      "equivalentBorder": 16.88,
+      "sourceURL": "https://pachinko-spec.info/spec/153082/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "PA大海物語5ブラックLT99ver.",
+      "equivalentBorder": 16.7,
+      "sourceURL": "https://pachinko-spec.info/spec/152967/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "P BanG Dream! Light ver.",
+      "equivalentBorder": 18.14,
+      "sourceURL": "https://pachinko-spec.info/spec/152877/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "PA魔王学院の不適合者 魔王再臨99Ver",
+      "equivalentBorder": 20.01,
+      "sourceURL": "https://pachinko-spec.info/spec/152870/",
+      "introDate": "2025/03/17"
+    },
+    {
+      "name": "P FAIRY TAIL 89Ver.",
+      "equivalentBorder": 17.33,
+      "sourceURL": "https://pachinko-spec.info/spec/152859/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "Pリングにかけろ1",
+      "equivalentBorder": 16.36,
+      "sourceURL": "https://pachinko-spec.info/spec/152848/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "P俺の妹がこんなに可愛いわけがない｡",
+      "equivalentBorder": 17.17,
+      "sourceURL": "https://pachinko-spec.info/spec/151043/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "Pフィーバーダンジョンに出会いを求めるのは間違っているだろうか2",
+      "equivalentBorder": 16.85,
+      "sourceURL": "https://pachinko-spec.info/spec/151034/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "P緋弾のアリア～緋緋神降臨～199Ver.",
+      "equivalentBorder": 17.44,
+      "sourceURL": "https://pachinko-spec.info/spec/150993/",
+      "introDate": "2025/02/17"
+    },
+    {
+      "name": "eフィーバーダンジョンに出会いを求めるのは間違っているだろうか2",
+      "equivalentBorder": 17.02,
+      "sourceURL": "https://pachinko-spec.info/spec/150985/",
+      "introDate": "2025/03/03"
+    },
+    {
+      "name": "P愛の不時着",
+      "equivalentBorder": 17.66,
+      "sourceURL": "https://pachinko-spec.info/spec/150938/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "Pこの素晴らしい世界に祝福を!ラッキートリガー129緊急クエスト",
+      "equivalentBorder": 17.08,
+      "sourceURL": "https://pachinko-spec.info/spec/150885/",
+      "introDate": "2025/02/17"
+    },
+    {
+      "name": "Pクイーンズブレイド4 ナナエルver.",
+      "equivalentBorder": 17.38,
+      "sourceURL": "https://pachinko-spec.info/spec/150874/",
+      "introDate": "2025/02/17"
+    },
+    {
+      "name": "Pデビルマン THE FINAL",
+      "equivalentBorder": 15.81,
+      "sourceURL": "https://pachinko-spec.info/spec/150867/",
+      "introDate": "2025/02/17"
+    },
+    {
+      "name": "eフィーバーからくりサーカス2 魔王ver.",
+      "equivalentBorder": 16.48,
+      "sourceURL": "https://pachinko-spec.info/spec/150608/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "Pフィーバーからくりサーカス2 運命ver.",
+      "equivalentBorder": 16.09,
+      "sourceURL": "https://pachinko-spec.info/spec/150601/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "PLT OVERLORD 魔導王光臨 129ver.",
+      "equivalentBorder": 16.91,
+      "sourceURL": "https://pachinko-spec.info/spec/150350/",
+      "introDate": "2025/02/17"
+    },
+    {
+      "name": "Pぱちんこシン･エヴァンゲリオン 129 LT ver.",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/150343/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "eルパン三世 ONE COLLECTION 超ブチヌキLTver.",
+      "equivalentBorder": 16.74,
+      "sourceURL": "https://pachinko-spec.info/spec/150285/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "e蒼天の拳 羅龍SREN",
+      "equivalentBorder": 16.24,
+      "sourceURL": "https://pachinko-spec.info/spec/150253/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "P冬のソナタ My Memory",
+      "equivalentBorder": 18.14,
+      "sourceURL": "https://pachinko-spec.info/spec/150245/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "Pとある魔術の禁書目録2 Light PREMIUM 2000ver.",
+      "equivalentBorder": 17.58,
+      "sourceURL": "https://pachinko-spec.info/spec/150046/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "e閃乱カグラ",
+      "equivalentBorder": 16.09,
+      "sourceURL": "https://pachinko-spec.info/spec/150014/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "Pフィーバー戦姫絶唱シンフォギア4 FINAL COMMANDER 199ver.",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/149541/",
+      "introDate": "2025/02/03"
+    },
+    {
+      "name": "Pブラックラグーン4 EXTRA BULLET 129ver.",
+      "equivalentBorder": 16.94,
+      "sourceURL": "https://pachinko-spec.info/spec/149520/",
+      "introDate": "2025/01/20"
+    },
+    {
+      "name": "P戦国乙女7 終焉の関ヶ原",
+      "equivalentBorder": 16.9,
+      "sourceURL": "https://pachinko-spec.info/spec/149515/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "eULTRAMAN",
+      "equivalentBorder": 16.99,
+      "sourceURL": "https://pachinko-spec.info/spec/149503/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "P花の慶次～裂～ 蓮極129ver.",
+      "equivalentBorder": 16.07,
+      "sourceURL": "https://pachinko-spec.info/spec/149446/",
+      "introDate": "2025/01/20"
+    },
+    {
+      "name": "PA花の慶次～裂～ 99ver.",
+      "equivalentBorder": 16.32,
+      "sourceURL": "https://pachinko-spec.info/spec/149436/",
+      "introDate": "2025/01/20"
+    },
+    {
+      "name": "P清流物語4 ヌシを求めて4000匹",
+      "equivalentBorder": 18.51,
+      "sourceURL": "https://pachinko-spec.info/spec/149429/",
+      "introDate": "2025/01/20"
+    },
+    {
+      "name": "PLTジューシーハニー極嬢",
+      "equivalentBorder": 17.47,
+      "sourceURL": "https://pachinko-spec.info/spec/149006/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "eフィーバー戦姫絶唱シンフォギア4 Final Commander CAROLver.",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/148998/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "P世界最高の暗殺者、異世界貴族に転生する",
+      "equivalentBorder": 17.06,
+      "sourceURL": "https://pachinko-spec.info/spec/148991/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "Pゲゲゲの鬼太郎 獅子奮迅 99Ver. RWC",
+      "equivalentBorder": 17.0,
+      "sourceURL": "https://pachinko-spec.info/spec/148954/",
+      "introDate": "2025/01/20"
+    },
+    {
+      "name": "P世紀末・天才バカボン～神SPEC 凱旋～ 99ver.",
+      "equivalentBorder": 16.23,
+      "sourceURL": "https://pachinko-spec.info/spec/148946/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "Pネオモンスターハウス 99Ver.",
+      "equivalentBorder": 16.96,
+      "sourceURL": "https://pachinko-spec.info/spec/148461/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "eぱちんこ押忍!番長 男の頂",
+      "equivalentBorder": 16.76,
+      "sourceURL": "https://pachinko-spec.info/spec/148453/",
+      "introDate": "2025/01/06"
+    },
+    {
+      "name": "Pネオモンスターハウス 199Ver.",
+      "equivalentBorder": 17.79,
+      "sourceURL": "https://pachinko-spec.info/spec/148446/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "eゴジラ対エヴァンゲリオン セカンドインパクトG ～破壊神覚醒～",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/148404/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "PGO!GO!郷～豪遊の5～N-VYLT",
+      "equivalentBorder": 17.57,
+      "sourceURL": "https://pachinko-spec.info/spec/148265/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "eソードアート・オンライン2～閃光の軌跡～K1",
+      "equivalentBorder": 16.71,
+      "sourceURL": "https://pachinko-spec.info/spec/148255/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "P STEINS;GATE0",
+      "equivalentBorder": 16.09,
+      "sourceURL": "https://pachinko-spec.info/spec/148247/",
+      "introDate": "2024/12/16"
+    },
+    {
+      "name": "Pゴジラ対エヴァンゲリオン セカンドインパクトG",
+      "equivalentBorder": 16.95,
+      "sourceURL": "https://pachinko-spec.info/spec/148214/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "P盾の勇者の成り上がり",
+      "equivalentBorder": 16.47,
+      "sourceURL": "https://pachinko-spec.info/spec/148055/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "P ToLOVEる ダークネス 199ver.",
+      "equivalentBorder": 16.67,
+      "sourceURL": "https://pachinko-spec.info/spec/147677/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "PシャカラッシュZ",
+      "equivalentBorder": 18.43,
+      "sourceURL": "https://pachinko-spec.info/spec/147665/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "Pえとたま2 神祭",
+      "equivalentBorder": 17.0,
+      "sourceURL": "https://pachinko-spec.info/spec/147639/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "e大工の源さん超韋駄天2 フルスイングLT",
+      "equivalentBorder": 18.37,
+      "sourceURL": "https://pachinko-spec.info/spec/147627/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "Pフィーバー機動戦士ガンダムSEED LT-Light ver.",
+      "equivalentBorder": 17.1,
+      "sourceURL": "https://pachinko-spec.info/spec/147043/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "Pぱちんこ にゃんこ大戦争 ～多様性のネコ～",
+      "equivalentBorder": 17.38,
+      "sourceURL": "https://pachinko-spec.info/spec/146837/",
+      "introDate": "2024/11/18"
+    },
+    {
+      "name": "P真･一騎当千 ～桃園の誓い～ 199LTver",
+      "equivalentBorder": 17.15,
+      "sourceURL": "https://pachinko-spec.info/spec/146785/",
+      "introDate": "2024/12/02"
+    },
+    {
+      "name": "PモンスターハンターRISE",
+      "equivalentBorder": 16.37,
+      "sourceURL": "https://pachinko-spec.info/spec/146777/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "PバイオハザードRE:2 ごらくバージョン",
+      "equivalentBorder": 17.53,
+      "sourceURL": "https://pachinko-spec.info/spec/146520/",
+      "introDate": "2024/09/17"
+    },
+    {
+      "name": "eSSSS.GRIDMAN",
+      "equivalentBorder": 16.91,
+      "sourceURL": "https://pachinko-spec.info/spec/146302/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "P銀河英雄伝説 DIE NEUE THESE 319ver.",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/146252/",
+      "introDate": "2024/11/18"
+    },
+    {
+      "name": "P義風堂々!!3 ～兼続と慶次～ 199Ver.",
+      "equivalentBorder": 19.9,
+      "sourceURL": "https://pachinko-spec.info/spec/146243/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "P銀河英雄伝説 DIE NEUE THESE 89ver.",
+      "equivalentBorder": 17.52,
+      "sourceURL": "https://pachinko-spec.info/spec/146234/",
+      "introDate": "2024/11/18"
+    },
+    {
+      "name": "P転生したらスライムだった件",
+      "equivalentBorder": 16.92,
+      "sourceURL": "https://pachinko-spec.info/spec/146211/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "e大海物語5スペシャル",
+      "equivalentBorder": 16.81,
+      "sourceURL": "https://pachinko-spec.info/spec/146202/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "Pリング呪いの7日間3 甘デジver.",
+      "equivalentBorder": 17.33,
+      "sourceURL": "https://pachinko-spec.info/spec/146194/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "P大海物語5スペシャル",
+      "equivalentBorder": 17.51,
+      "sourceURL": "https://pachinko-spec.info/spec/146187/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "Pラブ嬢 ～極嬢のハーレム体験～",
+      "equivalentBorder": 17.2,
+      "sourceURL": "https://pachinko-spec.info/spec/146181/",
+      "introDate": "2024/11/05"
+    },
+    {
+      "name": "P江頭2:50 in ナナシー LT",
+      "equivalentBorder": 17.63,
+      "sourceURL": "https://pachinko-spec.info/spec/145967/",
+      "introDate": "2024/10/21"
+    },
+    {
+      "name": "Pフィーバー革命機ヴァルヴレイヴ3 Light ver.",
+      "equivalentBorder": 16.48,
+      "sourceURL": "https://pachinko-spec.info/spec/145572/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "e乃木坂46Ⅱ",
+      "equivalentBorder": 16.32,
+      "sourceURL": "https://pachinko-spec.info/spec/145045/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "P弾球黙示録カイジ沼5 ～運否天賦～ ざわっ･･･79Ver.",
+      "equivalentBorder": 17.22,
+      "sourceURL": "https://pachinko-spec.info/spec/145038/",
+      "introDate": "2024/10/21"
+    },
+    {
+      "name": "P CYBORG009 RULE OF SACRIFICE VS SCARL BODY EDITION 199",
+      "equivalentBorder": 17.09,
+      "sourceURL": "https://pachinko-spec.info/spec/145032/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "P宇宙戦艦ヤマト2202 愛の戦士たち 超波動",
+      "equivalentBorder": 17.04,
+      "sourceURL": "https://pachinko-spec.info/spec/144752/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "Pルパン三世 ONE COLLECTION",
+      "equivalentBorder": 16.37,
+      "sourceURL": "https://pachinko-spec.info/spec/144735/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "Pメイドインアビス 虹の黄金域",
+      "equivalentBorder": 17.25,
+      "sourceURL": "https://pachinko-spec.info/spec/144317/",
+      "introDate": "2024/09/17"
+    },
+    {
+      "name": "Pいくさの子 織田三郎信長伝",
+      "equivalentBorder": 16.64,
+      "sourceURL": "https://pachinko-spec.info/spec/144236/",
+      "introDate": "2024/09/17"
+    },
+    {
+      "name": "PAわんわんパラダイス セレブレーション",
+      "equivalentBorder": 14.75,
+      "sourceURL": "https://pachinko-spec.info/spec/144208/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "e仮面ライダー電王",
+      "equivalentBorder": 16.78,
+      "sourceURL": "https://pachinko-spec.info/spec/143901/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "Pとある科学の超電磁砲2 JMB",
+      "equivalentBorder": 16.56,
+      "sourceURL": "https://pachinko-spec.info/spec/143893/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "PAフィーバーかぐや様は告らせたい Light ver.",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/143876/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "eキョンシー ライトミドル 新CタイムVer.",
+      "equivalentBorder": 17.48,
+      "sourceURL": "https://pachinko-spec.info/spec/143844/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "Pルパン三世 ～銭形からの招待状～ 77ver.",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/143621/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "PAワンパンマン 99ver.",
+      "equivalentBorder": 17.5,
+      "sourceURL": "https://pachinko-spec.info/spec/143566/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "P中森明菜歌 姫伝説 ～BLACK DIVA 愛～",
+      "equivalentBorder": 16.88,
+      "sourceURL": "https://pachinko-spec.info/spec/143505/",
+      "introDate": "2024/10/07"
+    },
+    {
+      "name": "P DD北斗の拳3",
+      "equivalentBorder": 17.27,
+      "sourceURL": "https://pachinko-spec.info/spec/143497/",
+      "introDate": "2024/09/02"
+    },
+    {
+      "name": "eゴッドイーター TRIPLE BURST",
+      "equivalentBorder": 17.34,
+      "sourceURL": "https://pachinko-spec.info/spec/143488/",
+      "introDate": "2024/09/02"
     },
     {
       "name": "Pデジハネ交響詩篇エウレカセブン ANEMONE 99ver.",
       "equivalentBorder": 16.95,
-      "sourceURL": "https://pachinko-spec.info/spec/143109/"
+      "sourceURL": "https://pachinko-spec.info/spec/143109/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "PAコマコマ倶楽部with坂本冬美LOOP1",
+      "equivalentBorder": 18.08,
+      "sourceURL": "https://pachinko-spec.info/spec/143103/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "Pドラムだ!金ドン ～花火外伝～",
+      "equivalentBorder": 17.5,
+      "sourceURL": "https://pachinko-spec.info/spec/142943/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "Pリング呪いの7日間3 ラッキートリガーVer.",
+      "equivalentBorder": 17.81,
+      "sourceURL": "https://pachinko-spec.info/spec/142854/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "P七つの美徳 ゴールデンエンジェルタイム ～スイート 99Ver.～",
+      "equivalentBorder": 17.68,
+      "sourceURL": "https://pachinko-spec.info/spec/142716/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "PAこの素晴らしい世界に祝福を!｢このゆる甘99に祝福を!｣",
+      "equivalentBorder": 18.8,
+      "sourceURL": "https://pachinko-spec.info/spec/142678/",
+      "introDate": "2024/07/22"
+    },
+    {
+      "name": "P BanG Dream!",
+      "equivalentBorder": 16.38,
+      "sourceURL": "https://pachinko-spec.info/spec/142564/",
+      "introDate": "2024/08/19"
+    },
+    {
+      "name": "eフィーバー機動戦士ガンダムユニコーン -白き一角獣と黒き獅子- 再来",
+      "equivalentBorder": 30.07,
+      "sourceURL": "https://pachinko-spec.info/spec/142488/",
+      "introDate": "2024/08/05"
+    },
+    {
+      "name": "Pフィーバー機動戦士ガンダムユニコーン -白き一角獣と黒き獅子- 再来",
+      "equivalentBorder": 16.56,
+      "sourceURL": "https://pachinko-spec.info/spec/142424/",
+      "introDate": "2024/08/05"
+    },
+    {
+      "name": "e北斗の拳10",
+      "equivalentBorder": 16.9,
+      "sourceURL": "https://pachinko-spec.info/spec/141766/",
+      "introDate": "2024/08/05"
+    },
+    {
+      "name": "e花の慶次～傾奇一転",
+      "equivalentBorder": 17.23,
+      "sourceURL": "https://pachinko-spec.info/spec/141722/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "P貞子FMD",
+      "equivalentBorder": 31.16,
+      "sourceURL": "https://pachinko-spec.info/spec/141706/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "P花の慶次～傾奇一転",
+      "equivalentBorder": 17.23,
+      "sourceURL": "https://pachinko-spec.info/spec/141699/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "Pファンキードクター天使Ver.",
+      "equivalentBorder": 17.94,
+      "sourceURL": "https://pachinko-spec.info/spec/141610/",
+      "introDate": "2024/06/17"
+    },
+    {
+      "name": "P百花繚乱 ご奉仕129ver.",
+      "equivalentBorder": 16.06,
+      "sourceURL": "https://pachinko-spec.info/spec/141426/",
+      "introDate": "2024/08/05"
+    },
+    {
+      "name": "PAスーパー海物語 IN 地中海2",
+      "equivalentBorder": 17.54,
+      "sourceURL": "https://pachinko-spec.info/spec/141415/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "Pアズールレーン THE ANIMATION ～異次元トリガー～",
+      "equivalentBorder": 16.77,
+      "sourceURL": "https://pachinko-spec.info/spec/141373/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "Pギルティクラウン2 PREMIUM LIVE TICKET",
+      "equivalentBorder": 17.59,
+      "sourceURL": "https://pachinko-spec.info/spec/141068/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "P To LOVEる ダークネス",
+      "equivalentBorder": 16.94,
+      "sourceURL": "https://pachinko-spec.info/spec/140711/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "P頭文字D 2nd",
+      "equivalentBorder": 17.1,
+      "sourceURL": "https://pachinko-spec.info/spec/140664/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "P魔法少女まどか☆マギカ3",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/140556/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "P魔王学院の不適合者FMY",
+      "equivalentBorder": 16.12,
+      "sourceURL": "https://pachinko-spec.info/spec/140530/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "Pクイーンズブレイド4 アンリミテッド",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/140252/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "Pうる星やつら2",
+      "equivalentBorder": 17.8,
+      "sourceURL": "https://pachinko-spec.info/spec/140242/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "Pフィーバー三国戦騎7500",
+      "equivalentBorder": 17.03,
+      "sourceURL": "https://pachinko-spec.info/spec/140234/",
+      "introDate": "2024/06/03"
+    },
+    {
+      "name": "Pフィーバーありふれた職業で世界最強 LIGJHT ver.",
+      "equivalentBorder": 17.14,
+      "sourceURL": "https://pachinko-spec.info/spec/140228/",
+      "introDate": "2024/07/08"
+    },
+    {
+      "name": "Pぱちんこ水戸黄門 超極上 らいとばーじょん",
+      "equivalentBorder": 16.55,
+      "sourceURL": "https://pachinko-spec.info/spec/139727/",
+      "introDate": "2024/05/07"
+    },
+    {
+      "name": "P GO!GO!郷 ～革命の5～",
+      "equivalentBorder": 18.08,
+      "sourceURL": "https://pachinko-spec.info/spec/139675/",
+      "introDate": "2024/05/07"
+    },
+    {
+      "name": "Pゴブリンスレイヤー ラッキートリガーVer.",
+      "equivalentBorder": 17.18,
+      "sourceURL": "https://pachinko-spec.info/spec/139454/",
+      "introDate": "2024/05/07"
+    },
+    {
+      "name": "P七つの大罪2 神千斬りVER.",
+      "equivalentBorder": 18.21,
+      "sourceURL": "https://pachinko-spec.info/spec/139174/",
+      "introDate": "2024/05/07"
+    },
+    {
+      "name": "P牙狼11 ～冴島大河～XX",
+      "equivalentBorder": 16.3,
+      "sourceURL": "https://pachinko-spec.info/spec/139106/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "PAハイスクール･フリート オールスター すい～とでハッピー!2400",
+      "equivalentBorder": 17.89,
+      "sourceURL": "https://pachinko-spec.info/spec/139058/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "Pフィーバー炎炎ノ消防隊 LIGHT VER.",
+      "equivalentBorder": 16.79,
+      "sourceURL": "https://pachinko-spec.info/spec/138957/",
+      "introDate": "2024/05/07"
+    },
+    {
+      "name": "P弾球黙示録カイジ沼5 超欲望129×87%Ver.",
+      "equivalentBorder": 17.15,
+      "sourceURL": "https://pachinko-spec.info/spec/138857/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "e新･必殺仕置人 超斬撃199ver.",
+      "equivalentBorder": 17.04,
+      "sourceURL": "https://pachinko-spec.info/spec/138729/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "P FAIRY TAIL これが七炎竜の力だFSA",
+      "equivalentBorder": 16.16,
+      "sourceURL": "https://pachinko-spec.info/spec/138471/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "PぱちんこGANTZ 覚醒 sweet 2000",
+      "equivalentBorder": 17.18,
+      "sourceURL": "https://pachinko-spec.info/spec/138037/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "Pひぐらしのなく頃に 輪廻転生",
+      "equivalentBorder": 16.78,
+      "sourceURL": "https://pachinko-spec.info/spec/137974/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "PバイオハザードRE:2 Lucky Trigger タイプ",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/137846/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "Pフィーバーマクロスフロンティア5W",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/137763/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "eフィーバーマクロスフロンティア5V",
+      "equivalentBorder": 16.97,
+      "sourceURL": "https://pachinko-spec.info/spec/137754/",
+      "introDate": "2024/04/22"
+    },
+    {
+      "name": "PAルパン三世 THE FIRST 不二子89VER.",
+      "equivalentBorder": 15.78,
+      "sourceURL": "https://pachinko-spec.info/spec/137717/",
+      "introDate": "2024/02/19"
+    },
+    {
+      "name": "P大工の源さん超韋駄天2 極源LighT",
+      "equivalentBorder": 17.63,
+      "sourceURL": "https://pachinko-spec.info/spec/137602/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "P化物語 199ver.",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/137476/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "P化物語 319ver.",
+      "equivalentBorder": 17.4,
+      "sourceURL": "https://pachinko-spec.info/spec/137470/",
+      "introDate": "2024/04/08"
+    },
+    {
+      "name": "Pファンキードクター 悪魔 12000ver.",
+      "equivalentBorder": 18.56,
+      "sourceURL": "https://pachinko-spec.info/spec/137375/",
+      "introDate": "2024/03/18"
+    },
+    {
+      "name": "Psin 七つの大罪 X-TREME 強甘2400Ver.",
+      "equivalentBorder": 18.03,
+      "sourceURL": "https://pachinko-spec.info/spec/137175/",
+      "introDate": "2024/03/18"
+    },
+    {
+      "name": "eシン･エヴァンゲリオン Type ゲンドウ",
+      "equivalentBorder": 17.07,
+      "sourceURL": "https://pachinko-spec.info/spec/137132/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "Pコードギアス 反逆のルルーシュ3 Light ver.",
+      "equivalentBorder": 17.57,
+      "sourceURL": "https://pachinko-spec.info/spec/136483/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P真･座頭市物語",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/136450/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P世紀末･天才バカボン～福神SPEC～",
+      "equivalentBorder": 16.26,
+      "sourceURL": "https://pachinko-spec.info/spec/136110/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "Pこの素晴らしい世界に祝福を!199LT ｢このラッキートリガーに祝福を!｣",
+      "equivalentBorder": 17.47,
+      "sourceURL": "https://pachinko-spec.info/spec/135947/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P咲-Saki-全国編 テンパイ即リーver.",
+      "equivalentBorder": 16.76,
+      "sourceURL": "https://pachinko-spec.info/spec/135939/",
+      "introDate": "2024/03/18"
+    },
+    {
+      "name": "Pわんニャンアドベンチャー 119ver.",
+      "equivalentBorder": 18.22,
+      "sourceURL": "https://pachinko-spec.info/spec/135931/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "Pフィーバーパワフル",
+      "equivalentBorder": 16.77,
+      "sourceURL": "https://pachinko-spec.info/spec/135791/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P緋弾のアリア ～緋緋神降臨～ ラッキートリガーVer.",
+      "equivalentBorder": 16.2,
+      "sourceURL": "https://pachinko-spec.info/spec/135773/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P北斗の拳 強敵 LT",
+      "equivalentBorder": 16.07,
+      "sourceURL": "https://pachinko-spec.info/spec/135750/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P真･一騎当千～桃園の誓い～ 129ver",
+      "equivalentBorder": 16.5,
+      "sourceURL": "https://pachinko-spec.info/spec/135488/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "PぱちんこGI優駿倶楽部2 ラッキートリガーver",
+      "equivalentBorder": 19.04,
+      "sourceURL": "https://pachinko-spec.info/spec/135481/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "PLT OVERLORD 魔導王光臨",
+      "equivalentBorder": 17.43,
+      "sourceURL": "https://pachinko-spec.info/spec/135472/",
+      "introDate": "2024/03/04"
+    },
+    {
+      "name": "P GO!GO!郷 Comeback Stage 77ver.",
+      "equivalentBorder": 16.79,
+      "sourceURL": "https://pachinko-spec.info/spec/135268/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "P異世界魔王と召喚少女の奴隷魔術",
+      "equivalentBorder": 17.17,
+      "sourceURL": "https://pachinko-spec.info/spec/135055/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン15 ～未来への咆哮～ PREMIUM MODEL",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/135047/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "P聖戦士ダンバイン2 ZERO SONIC 99VER.",
+      "equivalentBorder": 16.31,
+      "sourceURL": "https://pachinko-spec.info/spec/135040/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "Pルパン三世 THE FIRST 99VER.",
+      "equivalentBorder": 15.85,
+      "sourceURL": "https://pachinko-spec.info/spec/134951/",
+      "introDate": "2024/02/19"
+    },
+    {
+      "name": "PAフィーバーダンベル何キロ持てる? Light ver.",
+      "equivalentBorder": 16.98,
+      "sourceURL": "https://pachinko-spec.info/spec/134934/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "PストリートファイターV K.O.RUSH LIGHT EDITION",
+      "equivalentBorder": 16.27,
+      "sourceURL": "https://pachinko-spec.info/spec/134360/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "Pサラリーマン金太郎 159をなめんじゃねぇ ver.",
+      "equivalentBorder": 15.73,
+      "sourceURL": "https://pachinko-spec.info/spec/134351/",
+      "introDate": "2024/02/05"
+    },
+    {
+      "name": "P弾球黙示録カイジ沼5 ～運否天賦～",
+      "equivalentBorder": 17.3,
+      "sourceURL": "https://pachinko-spec.info/spec/133972/",
+      "introDate": "2024/01/22"
+    },
+    {
+      "name": "P CYBORG 009 RULE OF SACRIFICE",
+      "equivalentBorder": 17.85,
+      "sourceURL": "https://pachinko-spec.info/spec/133699/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "e CYBORG 009 RULE OF SACRIFICE",
+      "equivalentBorder": 16.77,
+      "sourceURL": "https://pachinko-spec.info/spec/133692/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "P中森明菜 歌姫伝説 ～BLACK DIVA～",
+      "equivalentBorder": 16.79,
+      "sourceURL": "https://pachinko-spec.info/spec/133643/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "Pやじきた道中記 甘味ver.",
+      "equivalentBorder": 17.97,
+      "sourceURL": "https://pachinko-spec.info/spec/133403/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "P真･花の慶次3N-K",
+      "equivalentBorder": 18.07,
+      "sourceURL": "https://pachinko-spec.info/spec/133395/",
+      "introDate": "2024/01/22"
+    },
+    {
+      "name": "Pフィーバー革命機ヴァルヴレイヴ3",
+      "equivalentBorder": 17.2,
+      "sourceURL": "https://pachinko-spec.info/spec/133287/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "Pドラム花火の源さん ドォオオンと2400+EX",
+      "equivalentBorder": 17.44,
+      "sourceURL": "https://pachinko-spec.info/spec/133222/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "Pとある魔術の禁書目録2",
+      "equivalentBorder": 16.11,
+      "sourceURL": "https://pachinko-spec.info/spec/133039/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "PA激デジ 牙狼 -月虹ノ旅人-",
+      "equivalentBorder": 14.67,
+      "sourceURL": "https://pachinko-spec.info/spec/132800/",
+      "introDate": "2024/01/09"
+    },
+    {
+      "name": "P真･一騎当千 Angelic Heroine Light Ver.",
+      "equivalentBorder": 16.3,
+      "sourceURL": "https://pachinko-spec.info/spec/132703/",
+      "introDate": "2023/12/18"
+    },
+    {
+      "name": "eシン･エヴァンゲリオン Type カヲル",
+      "equivalentBorder": 16.8,
+      "sourceURL": "https://pachinko-spec.info/spec/132464/",
+      "introDate": "2023/12/18"
+    },
+    {
+      "name": "Pシン･エヴァンゲリオン Type レイ",
+      "equivalentBorder": 16.65,
+      "sourceURL": "https://pachinko-spec.info/spec/132455/",
+      "introDate": "2023/12/18"
+    },
+    {
+      "name": "Pワンパンマン 199ver.",
+      "equivalentBorder": 19.67,
+      "sourceURL": "https://pachinko-spec.info/spec/132367/",
+      "introDate": "2023/12/04"
+    },
+    {
+      "name": "P交響詩篇エウレカセブン ANEMONE",
+      "equivalentBorder": 18.12,
+      "sourceURL": "https://pachinko-spec.info/spec/131758/",
+      "introDate": "2023/12/04"
+    },
+    {
+      "name": "P大海物語5 ブラック",
+      "equivalentBorder": 16.71,
+      "sourceURL": "https://pachinko-spec.info/spec/131678/",
+      "introDate": "2023/12/04"
+    },
+    {
+      "name": "eルパン三世～銭形からの招待状～",
+      "equivalentBorder": 16.64,
+      "sourceURL": "https://pachinko-spec.info/spec/131366/",
+      "introDate": "2023/11/20"
+    },
+    {
+      "name": "PA豊丸ととある企業の最新作2 SOD 99ver.",
+      "equivalentBorder": 18.28,
+      "sourceURL": "https://pachinko-spec.info/spec/131318/",
+      "introDate": "2023/11/20"
+    },
+    {
+      "name": "PA満開爛漫GO",
+      "equivalentBorder": 18.98,
+      "sourceURL": "https://pachinko-spec.info/spec/131311/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "P真・北斗無双 第4章 下剋上闘",
+      "equivalentBorder": 16.84,
+      "sourceURL": "https://pachinko-spec.info/spec/131246/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "PフィーバーからくりサーカスY",
+      "equivalentBorder": 16.65,
+      "sourceURL": "https://pachinko-spec.info/spec/131220/",
+      "introDate": "2023/12/04"
+    },
+    {
+      "name": "e Re:ゼロから始める異世界生活 season2",
+      "equivalentBorder": 16.19,
+      "sourceURL": "https://pachinko-spec.info/spec/131213/",
+      "introDate": "2023/11/20"
+    },
+    {
+      "name": "Pフィーバーありふれた職業で世界最強R",
+      "equivalentBorder": 16.81,
+      "sourceURL": "https://pachinko-spec.info/spec/131207/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "Pぱちんこ水戸黄門 超極楽",
+      "equivalentBorder": 17.06,
+      "sourceURL": "https://pachinko-spec.info/spec/131053/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "eゲゲゲの鬼太郎 獅子奮迅 SP",
+      "equivalentBorder": 15.98,
+      "sourceURL": "https://pachinko-spec.info/spec/130806/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "Pゲゲゲの鬼太郎 獅子奮迅",
+      "equivalentBorder": 16.8,
+      "sourceURL": "https://pachinko-spec.info/spec/130798/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "Pベルセルク無双 119ver",
+      "equivalentBorder": 18.89,
+      "sourceURL": "https://pachinko-spec.info/spec/130753/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "P覇穹 封神演義DL3-MX",
+      "equivalentBorder": 17.34,
+      "sourceURL": "https://pachinko-spec.info/spec/130745/",
+      "introDate": "2023/11/06"
+    },
+    {
+      "name": "Pギルティクラウン2",
+      "equivalentBorder": 17.54,
+      "sourceURL": "https://pachinko-spec.info/spec/130674/",
+      "introDate": "2023/10/16"
+    },
+    {
+      "name": "Pゴジラ対エヴァンゲリオン ～G細胞覚醒～ PREMIUM MODEL ロングSTver.",
+      "equivalentBorder": 16.67,
+      "sourceURL": "https://pachinko-spec.info/spec/129869/",
+      "introDate": "2023/10/16"
+    },
+    {
+      "name": "Pフィーバーかぐや様は告らせたい",
+      "equivalentBorder": 17.03,
+      "sourceURL": "https://pachinko-spec.info/spec/129746/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "P頭文字D Non-Stop 3000Edition",
+      "equivalentBorder": 16.98,
+      "sourceURL": "https://pachinko-spec.info/spec/129723/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン15 ～未来への咆哮～ SPECIAL EDITION",
+      "equivalentBorder": 16.66,
+      "sourceURL": "https://pachinko-spec.info/spec/129716/",
+      "introDate": "2023/09/19"
+    },
+    {
+      "name": "P世紀末 天才バカボン 神SPEC 凱旋",
+      "equivalentBorder": 16.37,
+      "sourceURL": "https://pachinko-spec.info/spec/129708/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "PストリートファイターV K.O.RUSH",
+      "equivalentBorder": 16.19,
+      "sourceURL": "https://pachinko-spec.info/spec/129584/",
+      "introDate": "2023/10/16"
+    },
+    {
+      "name": "e義風堂々!!～兼続と慶次～3 DM5-S",
+      "equivalentBorder": 16.61,
+      "sourceURL": "https://pachinko-spec.info/spec/129538/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "Pプロゴルファー猿 強甘119ver.",
+      "equivalentBorder": 18.16,
+      "sourceURL": "https://pachinko-spec.info/spec/129532/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "P戦国コレクション 天魔99",
+      "equivalentBorder": 17.06,
+      "sourceURL": "https://pachinko-spec.info/spec/129523/",
+      "introDate": "2023/09/19"
+    },
+    {
+      "name": "PぱちんこGANTZ覚醒 LIGHT MIDDLE",
+      "equivalentBorder": 16.99,
+      "sourceURL": "https://pachinko-spec.info/spec/129273/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "e新海物語349",
+      "equivalentBorder": 17.02,
+      "sourceURL": "https://pachinko-spec.info/spec/129132/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "eぱちんこソードアート・オンラインK12",
+      "equivalentBorder": 16.68,
+      "sourceURL": "https://pachinko-spec.info/spec/129118/",
+      "introDate": "2023/09/04"
+    },
+    {
+      "name": "PA激デジジューシーハニーハーレムRAY",
+      "equivalentBorder": 15.23,
+      "sourceURL": "https://pachinko-spec.info/spec/129005/",
+      "introDate": "2023/10/02"
+    },
+    {
+      "name": "Pフィーバー戦姫絶唱シンフォギア3 黄金絶唱 LIGHT VER.",
+      "equivalentBorder": 17.39,
+      "sourceURL": "https://pachinko-spec.info/spec/128542/",
+      "introDate": "2023/09/19"
+    },
+    {
+      "name": "Pリング呪いの7日間3",
+      "equivalentBorder": 16.48,
+      "sourceURL": "https://pachinko-spec.info/spec/128454/",
+      "introDate": "2023/09/19"
+    },
+    {
+      "name": "P咲-Saki-全国編",
+      "equivalentBorder": 17.23,
+      "sourceURL": "https://pachinko-spec.info/spec/127921/",
+      "introDate": "2023/09/04"
+    },
+    {
+      "name": "Pルパン三世 消されたルパン2022 99ver.",
+      "equivalentBorder": 14.7,
+      "sourceURL": "https://pachinko-spec.info/spec/127863/",
+      "introDate": "2023/09/19"
+    },
+    {
+      "name": "Pハイスクール･フリート ALL STAR",
+      "equivalentBorder": 18.48,
+      "sourceURL": "https://pachinko-spec.info/spec/127787/",
+      "introDate": "2023/09/04"
+    },
+    {
+      "name": "P百花繚乱",
+      "equivalentBorder": 16.62,
+      "sourceURL": "https://pachinko-spec.info/spec/127556/",
+      "introDate": "2023/09/04"
+    },
+    {
+      "name": "P七つの美徳 ゴールデンエンジェルタイム",
+      "equivalentBorder": 18.36,
+      "sourceURL": "https://pachinko-spec.info/spec/127216/",
+      "introDate": "2023/08/21"
+    },
+    {
+      "name": "Pシティーハンター 俺の心を震わせた日 凄ライトミドル",
+      "equivalentBorder": 17.04,
+      "sourceURL": "https://pachinko-spec.info/spec/126853/",
+      "introDate": "2023/08/21"
+    },
+    {
+      "name": "P GO!GO!マリン3000",
+      "equivalentBorder": 17.12,
+      "sourceURL": "https://pachinko-spec.info/spec/126724/",
+      "introDate": "2023/08/07"
+    },
+    {
+      "name": "P聖闘士星矢 超流星LIGHT ver.",
+      "equivalentBorder": 17.26,
+      "sourceURL": "https://pachinko-spec.info/spec/126716/",
+      "introDate": "2023/08/21"
+    },
+    {
+      "name": "Pデビルマン黄金黙示録 N-K1 YT250",
+      "equivalentBorder": 15.49,
+      "sourceURL": "https://pachinko-spec.info/spec/126645/",
+      "introDate": "2023/08/07"
+    },
+    {
+      "name": "e牙狼GOLDIMPACT 348Ver.【テスト導入】",
+      "equivalentBorder": 15.42,
+      "sourceURL": "https://pachinko-spec.info/spec/126436/",
+      "introDate": "2023/05/22"
+    },
+    {
+      "name": "Pフィーバー機動戦士ガンダムSEED",
+      "equivalentBorder": 17.11,
+      "sourceURL": "https://pachinko-spec.info/spec/126428/",
+      "introDate": "2023/08/07"
+    },
+    {
+      "name": "Pビッグドリーム3 77ver.",
+      "equivalentBorder": 17.32,
+      "sourceURL": "https://pachinko-spec.info/spec/126366/",
+      "introDate": "2023/08/07"
+    },
+    {
+      "name": "P真･一騎当千~桃園の誓い~",
+      "equivalentBorder": 16.4,
+      "sourceURL": "https://pachinko-spec.info/spec/126311/",
+      "introDate": "2023/08/07"
+    },
+    {
+      "name": "Pアナザーゴッドハーデス3 狂乱",
+      "equivalentBorder": 17.43,
+      "sourceURL": "https://pachinko-spec.info/spec/126037/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "P貞子3D RE:BIRTH",
+      "equivalentBorder": 18.67,
+      "sourceURL": "https://pachinko-spec.info/spec/125963/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "eキャッツアイ3 H4YZ3",
+      "equivalentBorder": 16.96,
+      "sourceURL": "https://pachinko-spec.info/spec/125908/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "PフィーバークィーンⅡ 30th ANNIVERSARY EDITION",
+      "equivalentBorder": 17.1,
+      "sourceURL": "https://pachinko-spec.info/spec/125475/",
+      "introDate": "2023/07/18"
+    },
+    {
+      "name": "eRAVE 覚聖ループ JMC",
+      "equivalentBorder": 16.22,
+      "sourceURL": "https://pachinko-spec.info/spec/125467/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "e花の慶次 裂 一刀両断",
+      "equivalentBorder": 16.71,
+      "sourceURL": "https://pachinko-spec.info/spec/125040/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "Pブラックラグーン4 GFPJ",
+      "equivalentBorder": 16.71,
+      "sourceURL": "https://pachinko-spec.info/spec/124833/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "PフィーバースプラッシュXスプラッシュ",
+      "equivalentBorder": 16.91,
+      "sourceURL": "https://pachinko-spec.info/spec/122696/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "P乃木坂46 キュンキュンLIGHT ver.",
+      "equivalentBorder": 17.41,
+      "sourceURL": "https://pachinko-spec.info/spec/122682/",
+      "introDate": "2023/06/19"
+    },
+    {
+      "name": "Pベルセルク無双 冥府魔道ver.",
+      "equivalentBorder": 17.64,
+      "sourceURL": "https://pachinko-spec.info/spec/122264/",
+      "introDate": "2023/06/19"
+    },
+    {
+      "name": "PA大海物語5 Withアグネス･ラム",
+      "equivalentBorder": 16.72,
+      "sourceURL": "https://pachinko-spec.info/spec/122132/",
+      "introDate": "2023/07/03"
+    },
+    {
+      "name": "Pわんニャンアドベンチャー",
+      "equivalentBorder": 19.56,
+      "sourceURL": "https://pachinko-spec.info/spec/122123/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "P銀河鉄道999 Next Journey 1/100ver.",
+      "equivalentBorder": 15.85,
+      "sourceURL": "https://pachinko-spec.info/spec/121680/",
+      "introDate": "2023/06/19"
+    },
+    {
+      "name": "P地獄少女 Light ver.",
+      "equivalentBorder": 16.65,
+      "sourceURL": "https://pachinko-spec.info/spec/121672/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "P甲鉄城のカバネリ 4000連激ver.",
+      "equivalentBorder": 17.02,
+      "sourceURL": "https://pachinko-spec.info/spec/120887/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "Pやじきた道中記MM",
+      "equivalentBorder": 17.24,
+      "sourceURL": "https://pachinko-spec.info/spec/120292/",
+      "introDate": "2023/05/22"
+    },
+    {
+      "name": "Pウルトラマンティガ ウルトラ超光ライトver.",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/119759/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "PバイオハザードRE2 H1YZ3",
+      "equivalentBorder": 17.15,
+      "sourceURL": "https://pachinko-spec.info/spec/118627/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "PA真･怪獣王ゴジラ2",
+      "equivalentBorder": 16.51,
+      "sourceURL": "https://pachinko-spec.info/spec/118404/",
+      "introDate": "2023/05/22"
+    },
+    {
+      "name": "P哲也4",
+      "equivalentBorder": 17.33,
+      "sourceURL": "https://pachinko-spec.info/spec/118356/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "Pフィーバー蒼穹のファフナー3 EXODUS 織姫Light ver.",
+      "equivalentBorder": 18.15,
+      "sourceURL": "https://pachinko-spec.info/spec/118289/",
+      "introDate": "2023/06/05"
+    },
+    {
+      "name": "PAフィーバー機動戦士ガンダムユニコーン LIGHT ver.",
+      "equivalentBorder": 17.67,
+      "sourceURL": "https://pachinko-spec.info/spec/118146/",
+      "introDate": "2023/05/22"
+    },
+    {
+      "name": "PA元祖ギンギラパラダイス 強99Ver.",
+      "equivalentBorder": 15.77,
+      "sourceURL": "https://pachinko-spec.info/spec/117940/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "P北斗の拳 暴凶星SFPA",
+      "equivalentBorder": 17.35,
+      "sourceURL": "https://pachinko-spec.info/spec/117326/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "e新･必殺仕置人S",
+      "equivalentBorder": 16.06,
+      "sourceURL": "https://pachinko-spec.info/spec/117196/",
+      "introDate": "2023/04/24"
+    },
+    {
+      "name": "PゴブリンスレイヤーJGZ",
+      "equivalentBorder": 16.58,
+      "sourceURL": "https://pachinko-spec.info/spec/116026/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "P新･遠山の金さん 77Ver. JWZ",
+      "equivalentBorder": 17.01,
+      "sourceURL": "https://pachinko-spec.info/spec/116013/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "Pコードギアス 反逆のルルーシュ Rebellion to Re;surrection",
+      "equivalentBorder": 17.05,
+      "sourceURL": "https://pachinko-spec.info/spec/115711/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "Pジューシーハニー ハーレム",
+      "equivalentBorder": 16.21,
+      "sourceURL": "https://pachinko-spec.info/spec/114848/",
+      "introDate": "2023/05/08"
+    },
+    {
+      "name": "eルパン三世 THE FIRST",
+      "equivalentBorder": 17.25,
+      "sourceURL": "https://pachinko-spec.info/spec/113988/",
+      "introDate": "2023/04/17"
+    },
+    {
+      "name": "PA戦国乙女 LEGEND BATTLE ときめき♥89ver.",
+      "equivalentBorder": 16.26,
+      "sourceURL": "https://pachinko-spec.info/spec/113626/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "Pフィーバー炎炎ﾉ消防隊",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/113518/",
+      "introDate": "2023/04/17"
+    },
+    {
+      "name": "e聖闘士星矢 超流星 CliMAX 349",
+      "equivalentBorder": 16.86,
+      "sourceURL": "https://pachinko-spec.info/spec/113078/",
+      "introDate": "2023/04/03"
+    },
+    {
+      "name": "P銭形平次3 お静99",
+      "equivalentBorder": 18.11,
+      "sourceURL": "https://pachinko-spec.info/spec/113066/",
+      "introDate": "2023/04/03"
+    },
+    {
+      "name": "P GO!GO!郷 Comeback Stage",
+      "equivalentBorder": 16.87,
+      "sourceURL": "https://pachinko-spec.info/spec/112272/",
+      "introDate": "2023/04/03"
+    },
+    {
+      "name": "Pプロゴルファー猿 EMPEROR MODEL",
+      "equivalentBorder": 18.54,
+      "sourceURL": "https://pachinko-spec.info/spec/112060/",
+      "introDate": "2023/04/03"
+    },
+    {
+      "name": "P聖戦士ダンバイン2 ZERO LIMIT HYPER",
+      "equivalentBorder": 19.41,
+      "sourceURL": "https://pachinko-spec.info/spec/111612/",
+      "introDate": "2023/04/03"
+    },
+    {
+      "name": "P真･北斗無双 第3章 覚醒闘舞",
+      "equivalentBorder": 18.43,
+      "sourceURL": "https://pachinko-spec.info/spec/111530/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pとある科学の超電磁砲 最強御坂ver.",
+      "equivalentBorder": 17.34,
+      "sourceURL": "https://pachinko-spec.info/spec/111328/",
+      "introDate": "2023/03/20"
+    },
+    {
+      "name": "Pフィーバーアクエリオン 極合体",
+      "equivalentBorder": 16.59,
+      "sourceURL": "https://pachinko-spec.info/spec/110970/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pぱちんこ乃木坂46 トレジャースペック",
+      "equivalentBorder": 16.43,
+      "sourceURL": "https://pachinko-spec.info/spec/110964/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "P009 RE:CYBORG ACCELERATOR EDITION 99ver.",
+      "equivalentBorder": 18.01,
+      "sourceURL": "https://pachinko-spec.info/spec/109772/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pだるまっしゅ2 N-KC",
+      "equivalentBorder": 18.32,
+      "sourceURL": "https://pachinko-spec.info/spec/106924/",
+      "introDate": "2023/02/20"
+    },
+    {
+      "name": "P真バジリスク～甲賀忍法帖～豪塊319ver.",
+      "equivalentBorder": 18.05,
+      "sourceURL": "https://pachinko-spec.info/spec/105977/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "P真･北斗無双4",
+      "equivalentBorder": 17.2,
+      "sourceURL": "https://pachinko-spec.info/spec/105366/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "Psin 七つの大罪 X-TREME",
+      "equivalentBorder": 17.84,
+      "sourceURL": "https://pachinko-spec.info/spec/105050/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pフィーバーダンベル何キロ持てる?",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/104947/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "P地獄少女覚醒3000Ver.",
+      "equivalentBorder": 16.81,
+      "sourceURL": "https://pachinko-spec.info/spec/104717/",
+      "introDate": "2023/02/20"
+    },
+    {
+      "name": "Pルパン三世 THE FIRST",
+      "equivalentBorder": 17.25,
+      "sourceURL": "https://pachinko-spec.info/spec/104088/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "P麻雀物語4 77ver",
+      "equivalentBorder": 18.35,
+      "sourceURL": "https://pachinko-spec.info/spec/104073/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pルパン三世 2000カラットの涙 129ver",
+      "equivalentBorder": 19.09,
+      "sourceURL": "https://pachinko-spec.info/spec/104057/",
+      "introDate": "2023/03/06"
+    },
+    {
+      "name": "Pモモキュンソード閃撃～極～",
+      "equivalentBorder": 16.47,
+      "sourceURL": "https://pachinko-spec.info/spec/103970/",
+      "introDate": "2023/01/23"
+    },
+    {
+      "name": "P大海物語5",
+      "equivalentBorder": 16.7,
+      "sourceURL": "https://pachinko-spec.info/spec/103492/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "P神･天才バカボン ～甘神SPEC～",
+      "equivalentBorder": 16.27,
+      "sourceURL": "https://pachinko-spec.info/spec/102684/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "P宇宙戦艦ヤマト2202 -ONLY ONE- Light",
+      "equivalentBorder": 16.81,
+      "sourceURL": "https://pachinko-spec.info/spec/101722/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "P真速のガッチャマン インフィニティフォース",
+      "equivalentBorder": 18.02,
+      "sourceURL": "https://pachinko-spec.info/spec/100277/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "Pビッグドリーム3",
+      "equivalentBorder": 17.75,
+      "sourceURL": "https://pachinko-spec.info/spec/99167/",
+      "introDate": "2023/01/10"
+    },
+    {
+      "name": "PハイスクールD×D 真紅GCA",
+      "equivalentBorder": 16.87,
+      "sourceURL": "https://pachinko-spec.info/spec/97694/",
+      "introDate": "2023/01/10"
+    },
+    {
+      "name": "PA緋弾のアリア～緋弾覚醒編～",
+      "equivalentBorder": 18.87,
+      "sourceURL": "https://pachinko-spec.info/spec/95878/",
+      "introDate": "2023/01/10"
+    },
+    {
+      "name": "Pシティーハンター 俺の心を震わせた日",
+      "equivalentBorder": 16.72,
+      "sourceURL": "https://pachinko-spec.info/spec/95850/",
+      "introDate": "2023/01/10"
+    },
+    {
+      "name": "P戦国乙女レジェンドバトル 99ver",
+      "equivalentBorder": 15.6,
+      "sourceURL": "https://pachinko-spec.info/spec/95818/",
+      "introDate": "2023/02/06"
+    },
+    {
+      "name": "PAスーパー海物語 IN 沖縄5 夜桜超旋風 99ver.",
+      "equivalentBorder": 19.19,
+      "sourceURL": "https://pachinko-spec.info/spec/95500/",
+      "introDate": "2023/01/09"
+    },
+    {
+      "name": "P大開王X",
+      "equivalentBorder": 16.83,
+      "sourceURL": "https://pachinko-spec.info/spec/94360/",
+      "introDate": "2023/01/10"
+    },
+    {
+      "name": "P真･花の慶次 黄金一閃",
+      "equivalentBorder": 17.66,
+      "sourceURL": "https://pachinko-spec.info/spec/89811/",
+      "introDate": "2023/01/23"
+    },
+    {
+      "name": "P牙狼 GOLD IMPACT",
+      "equivalentBorder": 15.73,
+      "sourceURL": "https://pachinko-spec.info/spec/89795/",
+      "introDate": "2023/01/23"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン 〜未来への咆哮〜",
+      "equivalentBorder": 16.94,
+      "sourceURL": "https://pachinko-spec.info/spec/26418/",
+      "introDate": null
+    },
+    {
+      "name": "P戦国乙女6 暁の関ヶ原",
+      "equivalentBorder": 17.53,
+      "sourceURL": "https://pachinko-spec.info/spec/24864/",
+      "introDate": null
+    },
+    {
+      "name": "P地獄少女 きくりのお祭りLIVE FWA",
+      "equivalentBorder": 18.6,
+      "sourceURL": "https://pachinko-spec.info/spec/24802/",
+      "introDate": null
+    },
+    {
+      "name": "PモンキーターンV",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/25876/",
+      "introDate": null
+    },
+    {
+      "name": "Pバジリスク桜花忍法帖 早咲き桜99ver.",
+      "equivalentBorder": 20.23,
+      "sourceURL": "https://pachinko-spec.info/spec/65635/",
+      "introDate": null
     }
   ],
   "removed": []
