@@ -1,7 +1,43 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 2,
+  "version": 4,
   "machines": [
+    {
+      "name": "Pドラムde電音部 超ドラ熱4500ver.",
+      "equivalentBorder": 29.89,
+      "sourceURL": "https://pachinko-spec.info/spec/172953/",
+      "introDate": "2026/10/05"
+    },
+    {
+      "name": "P中森明菜・歌姫伝説～FOR FANS～",
+      "equivalentBorder": 29.85,
+      "sourceURL": "https://pachinko-spec.info/spec/172946/",
+      "introDate": "2026/10/05"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン ～319RED～",
+      "equivalentBorder": 16.61,
+      "sourceURL": "https://pachinko-spec.info/spec/172877/",
+      "introDate": "2026/10/04"
+    },
+    {
+      "name": "eACわんわんパラダイス CELEBRATION",
+      "equivalentBorder": 15.16,
+      "sourceURL": "https://pachinko-spec.info/spec/172870/",
+      "introDate": "2026/10/04"
+    },
+    {
+      "name": "eフィーバー妖怪ウォッチ",
+      "equivalentBorder": 15.41,
+      "sourceURL": "https://pachinko-spec.info/spec/172864/",
+      "introDate": "2026/10/04"
+    },
+    {
+      "name": "e範馬刃牙 129ver. 超秒殺LIGHT!!",
+      "equivalentBorder": 16.63,
+      "sourceURL": "https://pachinko-spec.info/spec/172857/",
+      "introDate": "2026/10/04"
+    },
     {
       "name": "e takt op. Destiny",
       "equivalentBorder": 40.97,
