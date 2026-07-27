@@ -1,7 +1,19 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 5,
+  "version": 6,
   "machines": [
+    {
+      "name": "e仮面ライダーBLACK デカヘソ Light Version",
+      "equivalentBorder": 27.7,
+      "sourceURL": "https://pachinko-spec.info/spec/173543/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "eグランベルム プリンセプスのふたり",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/173382/",
+      "introDate": "2026/11/02"
+    },
     {
       "name": "eGANTZ～いんふにてぃ～M3",
       "equivalentBorder": 17.3,
