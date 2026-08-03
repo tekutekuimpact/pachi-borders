@@ -1,7 +1,43 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 6,
+  "version": 7,
   "machines": [
+    {
+      "name": "P大海物語4SP BLACK+",
+      "equivalentBorder": 17.26,
+      "sourceURL": "https://pachinko-spec.info/spec/173799/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "e大海物語5SP",
+      "equivalentBorder": 17.29,
+      "sourceURL": "https://pachinko-spec.info/spec/173793/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "P大海物語5SP",
+      "equivalentBorder": 17.26,
+      "sourceURL": "https://pachinko-spec.info/spec/173785/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "eとある魔術の禁書目録3",
+      "equivalentBorder": 17.23,
+      "sourceURL": "https://pachinko-spec.info/spec/173723/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "eプリンセス・プリンシパル",
+      "equivalentBorder": 16.71,
+      "sourceURL": "https://pachinko-spec.info/spec/173717/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "eノーゲーム・ノーライフ 119ver.",
+      "equivalentBorder": 18.38,
+      "sourceURL": "https://pachinko-spec.info/spec/173709/",
+      "introDate": "2026/11/02"
+    },
     {
       "name": "e仮面ライダーBLACK デカヘソ Light Version",
       "equivalentBorder": 27.7,
