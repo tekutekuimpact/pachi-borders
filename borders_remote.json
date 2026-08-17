@@ -1,7 +1,13 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 7,
+  "version": 8,
   "machines": [
+    {
+      "name": "e獣王 獅子の一撃",
+      "equivalentBorder": 26.3,
+      "sourceURL": "https://pachinko-spec.info/spec/174198/",
+      "introDate": "2026/12/07"
+    },
     {
       "name": "P大海物語4SP BLACK+",
       "equivalentBorder": 17.26,
