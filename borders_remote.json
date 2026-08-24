@@ -1,7 +1,19 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 8,
+  "version": 9,
   "machines": [
+    {
+      "name": "eワンパンマン2 正義執行 99ver.",
+      "equivalentBorder": 19.76,
+      "sourceURL": "https://pachinko-spec.info/spec/174438/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "eグランベルム プリンセプスのふたり 249ver.",
+      "equivalentBorder": 17.19,
+      "sourceURL": "https://pachinko-spec.info/spec/174415/",
+      "introDate": "2026/11/02"
+    },
     {
       "name": "e獣王 獅子の一撃",
       "equivalentBorder": 26.3,
