@@ -1,7 +1,25 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 10,
+  "version": 11,
   "machines": [
+    {
+      "name": "eフィーバーBASTARD!! -暗黒の破壊神- Light ver.",
+      "equivalentBorder": 16.86,
+      "sourceURL": "https://pachinko-spec.info/spec/174888/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "eフィーバーダンベル何キロ持てる？2 77VER.",
+      "equivalentBorder": 17.05,
+      "sourceURL": "https://pachinko-spec.info/spec/174881/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "e花の慶次 -雲のかなたに-",
+      "equivalentBorder": 16.52,
+      "sourceURL": "https://pachinko-spec.info/spec/174737/",
+      "introDate": "2026/12/07"
+    },
     {
       "name": "e女神のカフェテラス ヒロイン’s コレクション",
       "equivalentBorder": 31.78,
@@ -352,7 +370,7 @@
     },
     {
       "name": "eバイオハザード6",
-      "equivalentBorder": 17,
+      "equivalentBorder": 17.0,
       "sourceURL": "https://pachinko-spec.info/spec/168632/",
       "introDate": "2026/05/11"
     },
@@ -1594,7 +1612,7 @@
     },
     {
       "name": "Pゲゲゲの鬼太郎 獅子奮迅 99Ver. RWC",
-      "equivalentBorder": 17,
+      "equivalentBorder": 17.0,
       "sourceURL": "https://pachinko-spec.info/spec/148954/",
       "introDate": "2025/01/20"
     },
@@ -1672,7 +1690,7 @@
     },
     {
       "name": "Pえとたま2 神祭",
-      "equivalentBorder": 17,
+      "equivalentBorder": 17.0,
       "sourceURL": "https://pachinko-spec.info/spec/147639/",
       "introDate": "2024/12/02"
     },
