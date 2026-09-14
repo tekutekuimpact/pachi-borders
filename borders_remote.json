@@ -1,7 +1,37 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 11,
+  "version": 12,
   "machines": [
+    {
+      "name": "eミリオンゴッド-天空の雷撃-",
+      "equivalentBorder": 29.38,
+      "sourceURL": "https://pachinko-spec.info/spec/175044/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "eゴジラvsエヴァンゲリオン WIND BURST",
+      "equivalentBorder": 17.29,
+      "sourceURL": "https://pachinko-spec.info/spec/175034/",
+      "introDate": "2026/12/21"
+    },
+    {
+      "name": "e異世界でチート能力を手にした俺は､現実世界をも無双する 逆転劇への道ver.",
+      "equivalentBorder": 26.92,
+      "sourceURL": "https://pachinko-spec.info/spec/175027/",
+      "introDate": "2026/12/21"
+    },
+    {
+      "name": "eシャングリラ・フロンティア",
+      "equivalentBorder": 16.96,
+      "sourceURL": "https://pachinko-spec.info/spec/175017/",
+      "introDate": "2026/12/07"
+    },
+    {
+      "name": "e峰不二子",
+      "equivalentBorder": 16.17,
+      "sourceURL": "https://pachinko-spec.info/spec/174944/",
+      "introDate": "2026/12/07"
+    },
     {
       "name": "eフィーバーBASTARD!! -暗黒の破壊神- Light ver.",
       "equivalentBorder": 16.86,
