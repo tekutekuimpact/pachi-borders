@@ -1,7 +1,19 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 12,
+  "version": 13,
   "machines": [
+    {
+      "name": "e牙狼13 ハガネを継ぐ者",
+      "equivalentBorder": 16.34,
+      "sourceURL": "https://pachinko-spec.info/spec/175652/",
+      "introDate": "2026/12/21"
+    },
+    {
+      "name": "eアクダマドライブ 79ver,",
+      "equivalentBorder": 16.93,
+      "sourceURL": "https://pachinko-spec.info/spec/175608/",
+      "introDate": "2027/01/12"
+    },
     {
       "name": "eミリオンゴッド-天空の雷撃-",
       "equivalentBorder": 29.38,
