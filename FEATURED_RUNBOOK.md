@@ -1,7 +1,8 @@
 # 今週の注目機種 — 毎週の手順
 
 ボダクル(iOS/Android のパチンコ期待値計算アプリ)の「今週の注目機種」を作り直す手順。
-毎週月曜 10:30(日本時間)の定期タスクが、このファイルを読んでこのとおりに実行する。
+毎週日曜 6:00 ごろ(日本時間)の定期タスクが、このファイルを読んでこのとおりに実行する。
+月曜から打ちに行く人に間に合うよう、日曜の朝に更新する(2026-10-14 Shinさん判断)。
 共通仕様は PachiMVP リポジトリの `shared/spec/注目機種.md`(このリポジトリには無い)。
 
 ## できあがるもの
@@ -71,7 +72,7 @@ git push
 
 ### 5. ストア文の差し替え
 
-tekutekuimpact/bodakuru-stats の GitHub Actions「store-featured」が毎週月曜 11:45(日本時間)に
+tekutekuimpact/bodakuru-stats の GitHub Actions「store-featured」が毎週日曜 7:15(日本時間)に
 `featured.json` を読んで App Store / Google Play の文面を差し替える(前回と同じ updatedAt なら何もしない)。
 すぐ反映したいときは手動実行できる:
 
@@ -80,7 +81,7 @@ gh api -X POST repos/tekutekuimpact/bodakuru-stats/actions/workflows/store-featu
 ```
 
 (GraphQL を使う `gh workflow run` はこの環境では通らないことがあるので REST で叩く。権限が無くて失敗したら、
-月曜 11:45 の自動実行に任せればよい。)
+日曜 7:15 の自動実行に任せればよい。)
 
 ### 6. 報告
 
