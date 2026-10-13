@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-14",
+  "items": [
+    {
+      "name": "e Re:ゼロから始める異世界生活 鬼がかり2",
+      "kind": "hot",
+      "equivalentBorder": 16.04,
+      "introDate": "2026/10/05",
+      "sourceURL": "https://pachinko-spec.info/spec/173155/",
+      "comment": "新台で週間稼働1位"
+    },
+    {
+      "name": "eソードアート・オンライン -アリシゼーション- 夜空",
+      "kind": "hot",
+      "equivalentBorder": 19.91,
+      "introDate": "2026/08/03",
+      "sourceURL": "https://pachinko-spec.info/spec/171184/",
+      "comment": "週間稼働ランキング上位"
+    },
+    {
+      "name": "P大海物語5スペシャル",
+      "kind": "hot",
+      "equivalentBorder": 17.51,
+      "introDate": "2024/11/05",
+      "sourceURL": "https://pachinko-spec.info/spec/146187/",
+      "comment": "定番の海も稼働上位"
+    },
+    {
+      "name": "e牙狼12黄金騎士極限",
+      "kind": "hot",
+      "equivalentBorder": 16.88,
+      "introDate": "2025/08/04",
+      "sourceURL": "https://pachinko-spec.info/spec/158304/",
+      "comment": "週間稼働ランキング上位"
+    },
+    {
+      "name": "eGANTZ～いんふにてぃ～M3",
+      "kind": "new",
+      "equivalentBorder": 17.3,
+      "introDate": "2026/10/05",
+      "sourceURL": "https://pachinko-spec.info/spec/173198/",
+      "comment": ""
+    },
+    {
+      "name": "eワンパンマン2 正義執行 99ver.",
+      "kind": "upcoming",
+      "equivalentBorder": 19.76,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/174438/",
+      "comment": ""
+    },
+    {
+      "name": "デカスタeGODZILLA 超震撼ver.",
+      "kind": "new",
+      "equivalentBorder": 26.23,
+      "introDate": "2026/10/05",
+      "sourceURL": "https://pachinko-spec.info/spec/173164/",
+      "comment": ""
+    },
+    {
+      "name": "eグランベルム プリンセプスのふたり 249ver.",
+      "kind": "upcoming",
+      "equivalentBorder": 17.19,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/174415/",
+      "comment": ""
+    },
+    {
+      "name": "Pドラムde電音部 超ドラ熱4500ver.",
+      "kind": "new",
+      "equivalentBorder": 29.89,
+      "introDate": "2026/10/05",
+      "sourceURL": "https://pachinko-spec.info/spec/172953/",
+      "comment": ""
+    },
+    {
+      "name": "eとある魔術の禁書目録3",
+      "kind": "upcoming",
+      "equivalentBorder": 17.23,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/173723/",
+      "comment": ""
+    }
+  ]
+}
