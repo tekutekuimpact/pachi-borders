@@ -43,14 +43,6 @@
       "comment": ""
     },
     {
-      "name": "eワンパンマン2 正義執行 99ver.",
-      "kind": "upcoming",
-      "equivalentBorder": 19.76,
-      "introDate": "2026/11/02",
-      "sourceURL": "https://pachinko-spec.info/spec/174438/",
-      "comment": ""
-    },
-    {
       "name": "デカスタeGODZILLA 超震撼ver.",
       "kind": "new",
       "equivalentBorder": 26.23,
@@ -59,19 +51,27 @@
       "comment": ""
     },
     {
-      "name": "eグランベルム プリンセプスのふたり 249ver.",
-      "kind": "upcoming",
-      "equivalentBorder": 17.19,
-      "introDate": "2026/11/02",
-      "sourceURL": "https://pachinko-spec.info/spec/174415/",
-      "comment": ""
-    },
-    {
       "name": "Pドラムde電音部 超ドラ熱4500ver.",
       "kind": "new",
       "equivalentBorder": 29.89,
       "introDate": "2026/10/05",
       "sourceURL": "https://pachinko-spec.info/spec/172953/",
+      "comment": ""
+    },
+    {
+      "name": "eワンパンマン2 正義執行 99ver.",
+      "kind": "upcoming",
+      "equivalentBorder": 19.76,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/174438/",
+      "comment": ""
+    },
+    {
+      "name": "eグランベルム プリンセプスのふたり 249ver.",
+      "kind": "upcoming",
+      "equivalentBorder": 17.19,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/174415/",
       "comment": ""
     },
     {

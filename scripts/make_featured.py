@@ -8,7 +8,8 @@ GitHub Actions(tekutekuimpact/bodakuru-stats)が App Store / Google Play の文�
 
 - 新台枠(自動): borders_remote.json の introDate が「今日の28日前〜28日後」の機種。
   新台はほぼ毎月第1週にまとめて入るので、28日あれば「今月の新台」と「来月の導入予定」が両方入る。
-  導入済み(new)は新しい順、導入予定(upcoming)は近い順に交互に並べ、合わせて最大 6 機種。
+  導入済み(new)は新しい順、導入予定(upcoming)は近い順に交互に選び、合わせて最大 6 機種。
+  並び順は 話題 → 新台 → 導入予定。
 - 話題枠(Claude が毎週選ぶ): --picks の JSON [{"name": "...", "comment": "20字以内"}]。最大 4 機種。
   名前は borders_remote.json と完全一致のものだけ採用(一致しないものは警告して捨てる)。
 - 等価ボーダーが 14〜30 回の範囲外の機種は出さない(1種2種混合など、一般の人に誤解されやすい値のため)。
@@ -120,6 +121,8 @@ def main():
                 if x:
                     new_items.append(x)
 
+    # 選ぶときは交互、並べるときは「新台 → 導入予定」にまとめる(見出しごとに読みやすく)
+    new_items = [x for x in new_items if x["kind"] == "new"] + [x for x in new_items if x["kind"] == "upcoming"]
     items = (hot + new_items)[:MAX_TOTAL]
     out = {
         "schemaVersion": 1,
