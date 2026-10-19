@@ -1,7 +1,37 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 14,
+  "version": 15,
   "machines": [
+    {
+      "name": "eフィーバー戦姫絶唱シンフォギア5W",
+      "equivalentBorder": 22.76,
+      "sourceURL": "https://pachinko-spec.info/spec/176140/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "e麻雀物語Ⅴ天命",
+      "equivalentBorder": 16.06,
+      "sourceURL": "https://pachinko-spec.info/spec/176126/",
+      "introDate": "2027/01/25"
+    },
+    {
+      "name": "eオーバーロード2",
+      "equivalentBorder": 25.86,
+      "sourceURL": "https://pachinko-spec.info/spec/176117/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "PLT世界でいちばん強くなりたい!2 99悶STAR Ver.",
+      "equivalentBorder": 17.05,
+      "sourceURL": "https://pachinko-spec.info/spec/176110/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "e北斗の拳11 激闘",
+      "equivalentBorder": 16.76,
+      "sourceURL": "https://pachinko-spec.info/spec/176074/",
+      "introDate": "2027/01/12"
+    },
     {
       "name": "eソードアート・オンライン ファントム・バレット",
       "equivalentBorder": 17.83,
