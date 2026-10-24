@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-25",
   "items": [
     {
       "name": "e Re:ゼロから始める異世界生活 鬼がかり2",
@@ -9,6 +9,14 @@
       "introDate": "2026/10/05",
       "sourceURL": "https://pachinko-spec.info/spec/173155/",
       "comment": "新台で週間稼働1位"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン ～319RED～",
+      "kind": "hot",
+      "equivalentBorder": 16.61,
+      "introDate": "2026/10/04",
+      "sourceURL": "https://pachinko-spec.info/spec/172877/",
+      "comment": "新台で週間稼働上位"
     },
     {
       "name": "P大海物語5スペシャル",
@@ -24,14 +32,6 @@
       "equivalentBorder": 19.91,
       "introDate": "2026/08/03",
       "sourceURL": "https://pachinko-spec.info/spec/171184/",
-      "comment": "週間稼働ランキング上位"
-    },
-    {
-      "name": "e牙狼12黄金騎士極限",
-      "kind": "hot",
-      "equivalentBorder": 16.88,
-      "introDate": "2025/08/04",
-      "sourceURL": "https://pachinko-spec.info/spec/158304/",
       "comment": "週間稼働ランキング上位"
     },
     {
