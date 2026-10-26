@@ -1,7 +1,31 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 15,
+  "version": 16,
   "machines": [
+    {
+      "name": "PA海物語3R3 SP",
+      "equivalentBorder": 22.98,
+      "sourceURL": "https://pachinko-spec.info/spec/176817/",
+      "introDate": "2027/02/08"
+    },
+    {
+      "name": "eバイオハザード6 Light ver.",
+      "equivalentBorder": 16.38,
+      "sourceURL": "https://pachinko-spec.info/spec/176774/",
+      "introDate": "2027/05/11"
+    },
+    {
+      "name": "P新世紀エヴァンゲリオン17 ～はじまりの記憶～ PREMIUM MODEL",
+      "equivalentBorder": 16.27,
+      "sourceURL": "https://pachinko-spec.info/spec/176768/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "e女神のカフェテラス 269ver",
+      "equivalentBorder": 27.2,
+      "sourceURL": "https://pachinko-spec.info/spec/176759/",
+      "introDate": "2027/01/12"
+    },
     {
       "name": "eフィーバー戦姫絶唱シンフォギア5W",
       "equivalentBorder": 22.76,
