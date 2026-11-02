@@ -1,7 +1,37 @@
 {
   "_comment": "配信用ボーダーDB。pachinko-spec.info の4円等価・削り無し・通常条件ボーダー。machines を更新したら version を +1。removed に機種名を入れるとアプリ側で削除。2026-07-02 取得(2023年以降導入の機種+旧シード)。",
-  "version": 16,
+  "version": 17,
   "machines": [
+    {
+      "name": "Pぐる甘!!入るんスタート×織田信奈の野望 79Ver.",
+      "equivalentBorder": 35.13,
+      "sourceURL": "https://pachinko-spec.info/spec/177201/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "P桃太郎電鉄 〜ぱちんこも定番！〜LTver.",
+      "equivalentBorder": 17.82,
+      "sourceURL": "https://pachinko-spec.info/spec/177087/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "PA桃太郎電鉄 〜ぱちんこも定番！〜",
+      "equivalentBorder": 18.48,
+      "sourceURL": "https://pachinko-spec.info/spec/177071/",
+      "introDate": "2026/11/02"
+    },
+    {
+      "name": "P俺の妹がこんなに可愛いわけがない｡ ハッピーハッピーライトver.",
+      "equivalentBorder": 16,
+      "sourceURL": "https://pachinko-spec.info/spec/177041/",
+      "introDate": "2027/01/12"
+    },
+    {
+      "name": "e天才バカボン 超神SPEC ヘソ3個",
+      "equivalentBorder": 19.01,
+      "sourceURL": "https://pachinko-spec.info/spec/176987/",
+      "introDate": "2027/01/12"
+    },
     {
       "name": "PA海物語3R3 SP",
       "equivalentBorder": 22.98,
