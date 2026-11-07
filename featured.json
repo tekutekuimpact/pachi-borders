@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-08",
   "items": [
     {
       "name": "e Re:ゼロから始める異世界生活 鬼がかり2",
@@ -35,32 +35,24 @@
       "comment": "週間稼働ランキング上位"
     },
     {
-      "name": "eGANTZ～いんふにてぃ～M3",
+      "name": "P桃太郎電鉄 〜ぱちんこも定番！〜LTver.",
       "kind": "new",
-      "equivalentBorder": 17.3,
-      "introDate": "2026/10/05",
-      "sourceURL": "https://pachinko-spec.info/spec/173198/",
+      "equivalentBorder": 17.82,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/177087/",
       "comment": ""
     },
     {
-      "name": "デカスタeGODZILLA 超震撼ver.",
+      "name": "PA桃太郎電鉄 〜ぱちんこも定番！〜",
       "kind": "new",
-      "equivalentBorder": 26.23,
-      "introDate": "2026/10/05",
-      "sourceURL": "https://pachinko-spec.info/spec/173164/",
-      "comment": ""
-    },
-    {
-      "name": "Pドラムde電音部 超ドラ熱4500ver.",
-      "kind": "new",
-      "equivalentBorder": 29.89,
-      "introDate": "2026/10/05",
-      "sourceURL": "https://pachinko-spec.info/spec/172953/",
+      "equivalentBorder": 18.48,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/177071/",
       "comment": ""
     },
     {
       "name": "eワンパンマン2 正義執行 99ver.",
-      "kind": "upcoming",
+      "kind": "new",
       "equivalentBorder": 19.76,
       "introDate": "2026/11/02",
       "sourceURL": "https://pachinko-spec.info/spec/174438/",
@@ -68,7 +60,7 @@
     },
     {
       "name": "eグランベルム プリンセプスのふたり 249ver.",
-      "kind": "upcoming",
+      "kind": "new",
       "equivalentBorder": 17.19,
       "introDate": "2026/11/02",
       "sourceURL": "https://pachinko-spec.info/spec/174415/",
@@ -76,10 +68,18 @@
     },
     {
       "name": "eとある魔術の禁書目録3",
-      "kind": "upcoming",
+      "kind": "new",
       "equivalentBorder": 17.23,
       "introDate": "2026/11/02",
       "sourceURL": "https://pachinko-spec.info/spec/173723/",
+      "comment": ""
+    },
+    {
+      "name": "eプリンセス・プリンシパル",
+      "kind": "new",
+      "equivalentBorder": 16.71,
+      "introDate": "2026/11/02",
+      "sourceURL": "https://pachinko-spec.info/spec/173717/",
       "comment": ""
     }
   ]
