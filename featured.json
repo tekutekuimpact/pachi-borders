@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-15",
   "items": [
     {
       "name": "e Re:ゼロから始める異世界生活 鬼がかり2",
@@ -59,27 +59,27 @@
       "comment": ""
     },
     {
-      "name": "eグランベルム プリンセプスのふたり 249ver.",
-      "kind": "new",
-      "equivalentBorder": 17.19,
-      "introDate": "2026/11/02",
-      "sourceURL": "https://pachinko-spec.info/spec/174415/",
+      "name": "eミリオンゴッド-天空の雷撃-",
+      "kind": "upcoming",
+      "equivalentBorder": 29.38,
+      "introDate": "2026/12/07",
+      "sourceURL": "https://pachinko-spec.info/spec/175044/",
       "comment": ""
     },
     {
-      "name": "eとある魔術の禁書目録3",
-      "kind": "new",
-      "equivalentBorder": 17.23,
-      "introDate": "2026/11/02",
-      "sourceURL": "https://pachinko-spec.info/spec/173723/",
+      "name": "eシャングリラ・フロンティア",
+      "kind": "upcoming",
+      "equivalentBorder": 16.96,
+      "introDate": "2026/12/07",
+      "sourceURL": "https://pachinko-spec.info/spec/175017/",
       "comment": ""
     },
     {
-      "name": "eプリンセス・プリンシパル",
-      "kind": "new",
-      "equivalentBorder": 16.71,
-      "introDate": "2026/11/02",
-      "sourceURL": "https://pachinko-spec.info/spec/173717/",
+      "name": "e峰不二子",
+      "kind": "upcoming",
+      "equivalentBorder": 16.17,
+      "introDate": "2026/12/07",
+      "sourceURL": "https://pachinko-spec.info/spec/174944/",
       "comment": ""
     }
   ]
